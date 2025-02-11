@@ -11,10 +11,12 @@ This project explores three key areas:
 Calculate user retention rates and identify trends.
 Analyze cohort data to pinpoint periods of high and low retention.
 Provide recommendations for improving user engagement and retention strategies.
+
 2️⃣ Marketing Channel Performance
 Determine the most effective acquisition channels based on average revenue per user (ARPU).
 Compare the impact of channels such as Google Ads, Facebook Ads, Referrals, Organic Search, and Email Campaigns.
 Offer marketing recommendations to optimize budget allocation and improve high-value user acquisition.
+
 3️⃣ Re-Engagement Strategy
 Identify the optimal time window to re-engage first-time users and encourage a second transaction.
 Analyze user return behavior across different time frames (0-30 days, 30-90 days, 90+ days).
