@@ -1,0 +1,2517 @@
+user_id,transaction_date,revenue,platform,acquisition_channel
+user_2,28-10-2024,36.70,web,Organic Search
+user_2,29-12-2024,10.36,app,Facebook Ads
+user_3,30-06-2024,5.67,web,Organic Search
+user_3,06-08-2024,42.99,web,Referral
+user_3,15-12-2024,13.61,web,Referral
+user_4,20-09-2024,47.80,web,Google Ads
+user_4,13-09-2024,81.80,web,Email Campaign
+user_6,12-10-2024,29.58,web,Facebook Ads
+user_6,15-09-2024,56.94,web,Facebook Ads
+user_8,23-09-2024,60.74,app,Referral
+user_9,19-06-2024,20.70,web,Google Ads
+user_9,11-10-2024,23.88,web,Organic Search
+user_9,24-08-2024,72.58,app,Organic Search
+user_9,15-07-2024,91.92,app,Referral
+user_9,07-07-2024,11.04,web,Email Campaign
+user_9,11-09-2024,61.17,web,Organic Search
+user_10,22-11-2024,97.31,app,Email Campaign
+user_11,25-09-2024,15.53,web,Organic Search
+user_11,12-11-2024,90.10,web,Email Campaign
+user_11,15-12-2024,71.07,web,Email Campaign
+user_12,20-06-2024,61.89,web,Referral
+user_12,18-03-2024,64.31,web,Email Campaign
+user_12,25-05-2024,48.37,web,Referral
+user_12,24-10-2024,88.91,web,Referral
+user_13,16-12-2024,82.71,app,Organic Search
+user_14,31-12-2024,28.45,web,Organic Search
+user_15,11-07-2024,30.34,app,Referral
+user_15,14-06-2024,8.14,web,Google Ads
+user_15,25-08-2024,18.77,web,Referral
+user_15,10-11-2024,40.12,web,Email Campaign
+user_15,28-07-2024,65.19,web,Google Ads
+user_16,05-11-2024,22.72,web,Referral
+user_16,26-09-2024,38.12,web,Google Ads
+user_16,07-09-2024,54.19,app,Organic Search
+user_16,30-09-2024,56.44,web,Referral
+user_16,23-09-2024,82.64,web,Referral
+user_16,04-05-2024,99.64,app,Email Campaign
+user_16,08-06-2024,88.85,web,Google Ads
+user_17,19-12-2024,90.23,app,Google Ads
+user_17,18-09-2024,12.99,web,Referral
+user_18,28-07-2024,97.50,web,Facebook Ads
+user_18,31-10-2024,70.73,web,Google Ads
+user_18,28-09-2024,6.72,web,Referral
+user_19,24-11-2024,67.47,web,Referral
+user_19,04-06-2024,28.18,app,Email Campaign
+user_19,03-07-2024,89.74,web,Facebook Ads
+user_19,18-08-2024,59.81,web,Email Campaign
+user_20,07-02-2024,78.01,web,Referral
+user_20,10-08-2024,49.64,web,Organic Search
+user_20,23-08-2024,95.54,web,Email Campaign
+user_21,29-10-2024,32.97,web,Google Ads
+user_22,29-11-2024,71.12,web,Facebook Ads
+user_23,03-10-2024,54.24,app,Google Ads
+user_23,10-09-2024,71.22,app,Email Campaign
+user_23,15-11-2024,81.89,app,Google Ads
+user_23,11-06-2024,12.75,web,Referral
+user_23,18-11-2024,23.46,web,Referral
+user_23,19-10-2024,40.68,web,Organic Search
+user_24,04-09-2024,98.27,app,Facebook Ads
+user_24,30-12-2024,8.69,web,Organic Search
+user_24,12-10-2024,54.61,app,Referral
+user_24,19-10-2024,64.17,web,Email Campaign
+user_24,19-08-2024,71.45,web,Email Campaign
+user_24,04-11-2024,72.89,web,Organic Search
+user_27,15-05-2024,67.72,web,Email Campaign
+user_27,26-08-2024,57.66,web,Organic Search
+user_27,02-05-2024,58.77,web,Google Ads
+user_27,27-11-2024,16.03,web,Google Ads
+user_27,20-05-2024,86.27,app,Referral
+user_27,21-09-2024,77.52,app,Referral
+user_29,28-09-2024,63.51,web,Facebook Ads
+user_29,20-07-2024,40.59,web,Facebook Ads
+user_29,27-04-2024,86.37,web,Referral
+user_29,07-02-2024,11.70,web,Google Ads
+user_29,30-06-2024,94.32,web,Facebook Ads
+user_30,29-07-2024,82.96,web,Google Ads
+user_30,18-07-2024,91.01,web,Email Campaign
+user_30,13-02-2024,14.57,web,Organic Search
+user_31,05-09-2024,11.76,web,Facebook Ads
+user_31,03-05-2024,37.36,web,Referral
+user_32,06-07-2024,88.36,app,Email Campaign
+user_32,27-12-2024,57.06,web,Organic Search
+user_32,16-10-2024,74.51,web,Google Ads
+user_32,27-07-2024,37.38,app,Email Campaign
+user_33,13-07-2024,75.29,web,Google Ads
+user_34,24-05-2024,83.51,web,Organic Search
+user_35,02-10-2024,6.03,app,Referral
+user_36,28-12-2024,57.60,web,Email Campaign
+user_37,18-07-2024,15.78,app,Facebook Ads
+user_37,31-12-2024,10.31,app,Email Campaign
+user_37,15-10-2024,97.02,web,Facebook Ads
+user_38,09-11-2024,26.14,web,Organic Search
+user_38,21-10-2024,18.93,web,Organic Search
+user_38,04-11-2024,40.56,web,Referral
+user_38,13-11-2024,94.99,app,Referral
+user_38,30-08-2024,72.28,web,Referral
+user_38,20-12-2024,71.98,web,Organic Search
+user_39,24-10-2024,6.08,web,Facebook Ads
+user_39,29-09-2024,16.29,web,Google Ads
+user_39,05-05-2024,69.70,web,Google Ads
+user_39,11-11-2024,50.38,web,Google Ads
+user_39,29-08-2024,96.51,web,Email Campaign
+user_40,18-10-2024,99.33,web,Organic Search
+user_40,13-08-2024,97.08,web,Google Ads
+user_40,02-04-2024,32.98,app,Organic Search
+user_40,10-08-2024,75.02,app,Facebook Ads
+user_41,30-12-2024,21.12,web,Facebook Ads
+user_42,01-12-2024,31.58,web,Email Campaign
+user_42,24-08-2024,12.24,app,Organic Search
+user_43,07-11-2024,93.61,app,Email Campaign
+user_43,02-11-2024,7.50,web,Google Ads
+user_45,12-12-2024,70.71,web,Email Campaign
+user_46,15-03-2024,94.75,app,Google Ads
+user_46,16-04-2024,47.80,web,Organic Search
+user_46,13-07-2024,62.59,web,Google Ads
+user_47,16-11-2024,39.03,web,Facebook Ads
+user_47,06-12-2024,96.96,web,Organic Search
+user_48,31-12-2024,7.73,app,Email Campaign
+user_48,25-06-2024,81.48,app,Referral
+user_48,02-12-2024,38.31,web,Organic Search
+user_48,25-12-2024,53.83,app,Referral
+user_48,20-05-2024,64.10,app,Email Campaign
+user_48,05-09-2024,93.03,web,Referral
+user_49,11-04-2024,63.98,web,Organic Search
+user_49,20-04-2024,27.81,web,Google Ads
+user_49,06-08-2024,17.16,web,Referral
+user_49,08-09-2024,44.11,app,Organic Search
+user_49,09-06-2024,97.45,web,Organic Search
+user_49,10-12-2024,21.05,web,Email Campaign
+user_49,30-03-2024,13.43,web,Google Ads
+user_50,21-10-2024,70.59,web,Google Ads
+user_50,03-05-2024,64.65,web,Organic Search
+user_51,12-11-2024,81.59,app,Email Campaign
+user_52,28-11-2024,92.78,web,Referral
+user_52,10-10-2024,48.94,app,Organic Search
+user_53,09-01-2024,90.04,web,Referral
+user_53,06-10-2024,47.50,web,Google Ads
+user_53,04-05-2024,40.84,web,Google Ads
+user_54,11-11-2024,36.11,web,Google Ads
+user_55,01-04-2024,38.73,web,Facebook Ads
+user_55,14-05-2024,60.50,app,Google Ads
+user_55,16-09-2024,17.12,web,Referral
+user_55,01-11-2024,62.72,web,Organic Search
+user_56,24-10-2024,28.37,web,Organic Search
+user_57,06-12-2024,43.99,app,Facebook Ads
+user_57,09-11-2024,5.50,app,Organic Search
+user_58,06-08-2024,31.60,app,Facebook Ads
+user_58,06-11-2024,72.54,web,Referral
+user_58,01-11-2024,55.33,app,Email Campaign
+user_58,27-11-2024,93.54,web,Organic Search
+user_58,19-12-2024,40.08,web,Email Campaign
+user_58,26-11-2024,99.05,web,Facebook Ads
+user_58,03-10-2024,29.19,web,Google Ads
+user_59,10-05-2024,15.14,app,Referral
+user_59,29-09-2024,43.81,app,Organic Search
+user_59,22-06-2024,24.48,web,Google Ads
+user_59,28-11-2024,73.55,web,Email Campaign
+user_59,30-12-2024,83.65,app,Referral
+user_59,18-11-2024,83.39,web,Organic Search
+user_59,24-04-2024,54.69,web,Email Campaign
+user_59,19-03-2024,42.28,app,Organic Search
+user_59,10-06-2024,33.63,app,Google Ads
+user_60,04-09-2024,26.76,web,Organic Search
+user_60,18-11-2024,36.82,web,Email Campaign
+user_60,27-10-2024,19.41,web,Email Campaign
+user_61,04-04-2024,51.93,app,Email Campaign
+user_61,31-08-2024,40.99,web,Referral
+user_61,25-09-2024,52.72,web,Email Campaign
+user_64,06-06-2024,96.11,web,Facebook Ads
+user_64,30-12-2024,60.69,web,Google Ads
+user_64,14-09-2024,73.98,web,Referral
+user_67,19-03-2024,14.90,app,Organic Search
+user_67,02-11-2024,15.76,app,Referral
+user_67,19-08-2024,84.56,web,Organic Search
+user_67,17-07-2024,41.03,app,Facebook Ads
+user_67,28-12-2024,5.44,web,Referral
+user_67,15-03-2024,87.03,app,Facebook Ads
+user_67,07-03-2024,60.77,web,Organic Search
+user_67,16-08-2024,28.58,web,Referral
+user_69,11-05-2024,48.60,web,Referral
+user_70,31-10-2024,34.44,web,Organic Search
+user_70,15-09-2024,38.19,web,Google Ads
+user_70,29-11-2024,84.47,web,Google Ads
+user_70,05-05-2024,72.84,web,Referral
+user_70,09-06-2024,43.07,web,Referral
+user_70,07-11-2024,86.87,app,Facebook Ads
+user_70,28-07-2024,43.83,web,Referral
+user_71,21-12-2024,7.57,web,Organic Search
+user_72,28-10-2024,80.99,web,Google Ads
+user_72,24-05-2024,27.63,web,Organic Search
+user_72,05-08-2024,18.40,web,Facebook Ads
+user_72,29-02-2024,65.16,app,Email Campaign
+user_72,18-07-2024,16.66,app,Email Campaign
+user_72,28-08-2024,71.87,app,Email Campaign
+user_72,04-03-2024,29.65,web,Referral
+user_72,13-03-2024,64.29,web,Google Ads
+user_74,08-10-2024,58.75,app,Google Ads
+user_74,13-07-2024,53.68,app,Facebook Ads
+user_74,12-11-2024,43.24,web,Organic Search
+user_74,24-03-2024,17.57,app,Facebook Ads
+user_74,21-10-2024,69.90,app,Email Campaign
+user_74,01-05-2024,59.77,web,Google Ads
+user_74,01-09-2024,66.88,app,Email Campaign
+user_75,04-12-2024,30.32,app,Facebook Ads
+user_75,20-10-2024,65.14,web,Facebook Ads
+user_75,17-07-2024,84.62,web,Facebook Ads
+user_75,12-03-2024,9.46,web,Organic Search
+user_75,06-08-2024,12.87,web,Facebook Ads
+user_75,24-02-2024,41.98,web,Referral
+user_77,19-11-2024,42.68,app,Email Campaign
+user_77,18-09-2024,56.29,web,Referral
+user_78,19-12-2024,50.05,web,Google Ads
+user_78,24-11-2024,52.07,web,Facebook Ads
+user_79,24-11-2024,82.81,app,Referral
+user_79,19-05-2024,61.07,web,Referral
+user_79,08-12-2024,18.00,app,Google Ads
+user_79,06-12-2024,13.24,app,Organic Search
+user_79,28-10-2024,65.70,app,Email Campaign
+user_79,23-08-2024,98.15,app,Referral
+user_79,29-06-2024,70.85,web,Facebook Ads
+user_79,25-03-2024,9.20,web,Google Ads
+user_79,15-11-2024,58.95,app,Email Campaign
+user_80,07-11-2024,15.95,web,Email Campaign
+user_80,05-08-2024,75.78,web,Organic Search
+user_80,26-08-2024,8.52,web,Organic Search
+user_80,31-08-2024,16.45,web,Email Campaign
+user_80,02-11-2024,37.29,app,Referral
+user_80,23-06-2024,34.95,web,Email Campaign
+user_80,11-12-2024,54.42,web,Referral
+user_83,17-11-2024,11.65,web,Email Campaign
+user_85,26-12-2024,49.39,web,Facebook Ads
+user_86,30-07-2024,95.86,app,Email Campaign
+user_86,26-09-2024,98.32,app,Organic Search
+user_86,13-05-2024,63.27,web,Referral
+user_87,09-05-2024,94.56,web,Email Campaign
+user_87,27-10-2024,53.71,web,Facebook Ads
+user_87,02-10-2024,8.49,app,Email Campaign
+user_88,09-04-2024,25.55,web,Referral
+user_88,20-10-2024,21.52,web,Facebook Ads
+user_88,24-04-2024,99.65,app,Organic Search
+user_88,17-11-2024,26.26,web,Google Ads
+user_90,29-12-2024,81.90,web,Email Campaign
+user_90,13-11-2024,40.41,web,Email Campaign
+user_90,10-10-2024,55.60,app,Email Campaign
+user_90,01-10-2024,10.84,app,Email Campaign
+user_91,28-08-2024,67.90,web,Email Campaign
+user_94,08-11-2024,71.26,web,Organic Search
+user_94,01-10-2024,88.76,app,Google Ads
+user_94,25-10-2024,83.45,web,Organic Search
+user_94,02-11-2024,20.27,app,Email Campaign
+user_94,06-10-2024,5.61,web,Organic Search
+user_95,26-08-2024,40.79,web,Email Campaign
+user_95,27-06-2024,17.20,web,Facebook Ads
+user_95,05-09-2024,96.48,web,Referral
+user_95,16-12-2024,93.54,web,Referral
+user_95,14-09-2024,94.99,web,Referral
+user_95,27-07-2024,10.50,web,Facebook Ads
+user_95,17-11-2024,99.06,web,Referral
+user_96,13-09-2024,11.23,app,Organic Search
+user_96,03-11-2024,5.10,web,Facebook Ads
+user_97,16-05-2024,55.07,app,Organic Search
+user_97,15-08-2024,78.42,web,Organic Search
+user_97,04-05-2024,87.47,app,Referral
+user_99,24-06-2024,25.24,web,Google Ads
+user_99,20-10-2024,40.01,app,Organic Search
+user_99,26-03-2024,20.13,web,Email Campaign
+user_99,18-11-2024,19.60,web,Facebook Ads
+user_99,31-07-2024,64.49,web,Email Campaign
+user_99,07-02-2024,92.48,web,Google Ads
+user_100,07-10-2024,24.05,web,Email Campaign
+user_100,09-12-2024,34.48,web,Email Campaign
+user_102,11-02-2024,71.02,app,Google Ads
+user_102,24-10-2024,50.65,web,Google Ads
+user_102,16-04-2024,98.73,web,Referral
+user_102,27-06-2024,37.87,app,Facebook Ads
+user_102,02-02-2024,55.75,app,Google Ads
+user_103,12-09-2024,17.61,web,Facebook Ads
+user_103,22-10-2024,24.01,web,Google Ads
+user_104,10-05-2024,93.94,web,Google Ads
+user_104,21-11-2024,87.74,app,Referral
+user_105,17-10-2024,57.02,app,Facebook Ads
+user_105,26-03-2024,8.87,web,Organic Search
+user_105,04-04-2024,28.47,web,Email Campaign
+user_105,21-11-2024,25.83,app,Referral
+user_105,12-09-2024,22.30,app,Organic Search
+user_105,13-06-2024,6.98,web,Email Campaign
+user_107,20-12-2024,45.42,web,Referral
+user_107,16-12-2024,52.96,web,Organic Search
+user_108,31-12-2024,42.57,web,Facebook Ads
+user_109,29-02-2024,74.65,web,Referral
+user_109,05-10-2024,62.18,web,Facebook Ads
+user_110,28-11-2024,28.49,app,Google Ads
+user_111,02-04-2024,86.51,web,Google Ads
+user_111,09-07-2024,97.13,web,Organic Search
+user_111,06-02-2024,11.98,web,Facebook Ads
+user_111,29-04-2024,37.02,app,Google Ads
+user_111,08-06-2024,28.63,web,Google Ads
+user_111,05-12-2024,20.87,web,Google Ads
+user_111,13-05-2024,74.96,web,Email Campaign
+user_111,27-11-2024,85.20,app,Referral
+user_111,21-08-2024,58.02,web,Referral
+user_113,08-10-2024,16.60,web,Email Campaign
+user_113,05-12-2024,35.03,web,Referral
+user_115,18-11-2024,48.20,web,Facebook Ads
+user_117,13-12-2024,13.92,web,Email Campaign
+user_117,02-04-2024,29.25,web,Facebook Ads
+user_117,30-04-2024,28.19,app,Google Ads
+user_117,23-03-2024,15.75,app,Referral
+user_117,22-10-2024,62.06,app,Email Campaign
+user_117,06-11-2024,66.87,web,Referral
+user_117,17-07-2024,9.58,app,Google Ads
+user_118,04-09-2024,13.60,web,Organic Search
+user_118,29-09-2024,43.39,web,Organic Search
+user_118,13-09-2024,88.40,web,Email Campaign
+user_118,30-10-2024,16.42,web,Google Ads
+user_118,13-11-2024,64.87,web,Email Campaign
+user_121,21-04-2024,56.52,app,Facebook Ads
+user_122,02-12-2024,37.42,web,Facebook Ads
+user_122,09-12-2024,62.75,app,Facebook Ads
+user_123,10-08-2024,90.31,web,Organic Search
+user_123,05-06-2024,10.73,app,Organic Search
+user_124,18-03-2024,93.31,web,Facebook Ads
+user_124,27-07-2024,73.03,web,Referral
+user_124,20-05-2024,16.58,web,Referral
+user_124,04-05-2024,80.98,web,Google Ads
+user_125,28-04-2024,50.94,app,Google Ads
+user_125,25-07-2024,9.12,web,Organic Search
+user_125,24-06-2024,62.15,app,Referral
+user_125,01-03-2024,25.14,web,Facebook Ads
+user_125,04-06-2024,84.79,app,Google Ads
+user_125,07-07-2024,29.29,web,Organic Search
+user_125,14-05-2024,45.26,web,Facebook Ads
+user_125,17-07-2024,19.22,web,Email Campaign
+user_126,28-11-2024,49.92,web,Email Campaign
+user_127,18-06-2024,27.03,web,Email Campaign
+user_128,12-12-2024,69.20,web,Email Campaign
+user_129,24-10-2024,62.31,web,Email Campaign
+user_129,10-11-2024,13.14,app,Organic Search
+user_129,17-12-2024,35.72,web,Google Ads
+user_131,04-07-2024,56.30,app,Facebook Ads
+user_131,02-04-2024,55.63,web,Organic Search
+user_131,17-12-2024,9.97,web,Google Ads
+user_131,12-11-2024,74.41,web,Referral
+user_133,06-03-2024,38.02,web,Referral
+user_133,26-02-2024,93.08,web,Referral
+user_133,17-06-2024,19.48,app,Referral
+user_133,23-06-2024,68.80,web,Facebook Ads
+user_133,11-10-2024,87.15,web,Referral
+user_133,01-04-2024,20.13,web,Referral
+user_133,23-07-2024,30.00,web,Email Campaign
+user_133,07-11-2024,94.01,web,Organic Search
+user_134,28-11-2024,62.06,web,Organic Search
+user_134,17-11-2024,99.26,app,Facebook Ads
+user_135,25-07-2024,82.66,web,Facebook Ads
+user_136,13-03-2024,33.94,web,Email Campaign
+user_136,16-08-2024,21.48,web,Facebook Ads
+user_136,28-09-2024,97.68,web,Google Ads
+user_136,12-12-2024,50.54,web,Google Ads
+user_136,24-06-2024,90.33,app,Referral
+user_137,13-06-2024,39.92,web,Facebook Ads
+user_137,18-02-2024,27.09,web,Referral
+user_137,07-11-2024,16.59,web,Referral
+user_139,28-07-2024,19.44,web,Organic Search
+user_139,20-11-2024,25.12,web,Facebook Ads
+user_140,29-06-2024,12.09,app,Organic Search
+user_140,10-12-2024,70.76,web,Referral
+user_140,07-12-2024,99.69,app,Referral
+user_140,29-10-2024,64.27,web,Facebook Ads
+user_140,24-05-2024,80.25,web,Email Campaign
+user_140,29-03-2024,54.92,web,Email Campaign
+user_140,16-06-2024,96.56,web,Organic Search
+user_141,19-11-2024,60.30,web,Email Campaign
+user_141,05-11-2024,35.73,app,Email Campaign
+user_142,27-11-2024,51.35,web,Referral
+user_142,28-12-2024,52.44,web,Email Campaign
+user_143,25-03-2024,28.13,web,Organic Search
+user_143,22-09-2024,63.34,app,Facebook Ads
+user_143,23-02-2024,95.84,web,Google Ads
+user_143,01-06-2024,34.96,web,Referral
+user_144,07-09-2024,8.65,app,Email Campaign
+user_146,03-06-2024,69.62,web,Google Ads
+user_146,03-06-2024,73.05,web,Organic Search
+user_146,07-08-2024,8.38,web,Facebook Ads
+user_147,14-12-2024,67.83,web,Organic Search
+user_148,24-12-2024,30.18,web,Referral
+user_151,24-09-2024,9.15,web,Facebook Ads
+user_152,02-10-2024,41.92,web,Referral
+user_152,30-12-2024,69.22,web,Google Ads
+user_152,30-09-2024,82.51,app,Google Ads
+user_153,23-10-2024,97.95,app,Referral
+user_154,19-06-2024,56.26,app,Facebook Ads
+user_154,26-06-2024,70.10,web,Facebook Ads
+user_154,31-08-2024,51.40,web,Referral
+user_155,09-07-2024,33.27,web,Email Campaign
+user_155,05-08-2024,87.97,web,Email Campaign
+user_155,25-10-2024,20.28,web,Google Ads
+user_156,15-04-2024,23.43,app,Facebook Ads
+user_156,12-01-2024,75.52,app,Organic Search
+user_156,08-03-2024,38.76,app,Referral
+user_156,28-03-2024,85.56,app,Referral
+user_156,29-07-2024,6.05,app,Email Campaign
+user_157,03-04-2024,76.85,app,Organic Search
+user_157,29-04-2024,16.85,web,Referral
+user_157,08-02-2024,79.14,web,Facebook Ads
+user_157,07-11-2024,67.99,web,Email Campaign
+user_157,08-08-2024,63.86,web,Google Ads
+user_157,08-02-2024,43.22,app,Email Campaign
+user_157,02-02-2024,73.72,web,Facebook Ads
+user_157,14-03-2024,71.78,web,Facebook Ads
+user_157,25-06-2024,81.47,web,Referral
+user_159,03-11-2024,54.43,web,Google Ads
+user_159,25-10-2024,27.41,web,Google Ads
+user_160,04-10-2024,45.02,web,Organic Search
+user_160,10-11-2024,99.16,app,Google Ads
+user_160,25-07-2024,60.84,web,Email Campaign
+user_160,11-09-2024,36.78,web,Google Ads
+user_160,22-08-2024,30.94,web,Email Campaign
+user_160,16-06-2024,94.36,web,Facebook Ads
+user_161,26-04-2024,46.34,app,Referral
+user_162,14-12-2024,9.73,app,Organic Search
+user_162,05-08-2024,79.12,web,Google Ads
+user_162,27-09-2024,26.40,web,Google Ads
+user_162,29-04-2024,92.65,web,Email Campaign
+user_162,13-07-2024,31.81,web,Organic Search
+user_163,04-12-2024,97.61,web,Facebook Ads
+user_163,15-10-2024,11.21,web,Organic Search
+user_163,29-10-2024,63.87,web,Email Campaign
+user_164,16-03-2024,90.48,web,Organic Search
+user_164,02-06-2024,17.16,app,Email Campaign
+user_165,01-11-2024,98.22,web,Organic Search
+user_165,15-08-2024,23.82,web,Organic Search
+user_165,28-10-2024,19.37,web,Facebook Ads
+user_165,14-08-2024,58.32,web,Email Campaign
+user_166,10-03-2024,11.43,app,Google Ads
+user_166,04-05-2024,12.76,web,Google Ads
+user_167,06-01-2024,68.10,web,Facebook Ads
+user_167,11-04-2024,86.89,web,Referral
+user_167,13-12-2024,79.76,web,Organic Search
+user_167,21-05-2024,97.92,app,Google Ads
+user_167,05-02-2024,29.57,web,Referral
+user_168,21-12-2024,24.46,app,Referral
+user_168,31-10-2024,29.27,app,Facebook Ads
+user_168,26-08-2024,58.01,web,Organic Search
+user_169,19-05-2024,42.12,app,Referral
+user_169,17-11-2024,83.10,web,Organic Search
+user_169,27-08-2024,96.63,web,Facebook Ads
+user_169,20-02-2024,32.28,app,Referral
+user_169,07-05-2024,34.67,web,Facebook Ads
+user_169,25-03-2024,47.52,web,Facebook Ads
+user_169,01-11-2024,63.28,web,Organic Search
+user_169,05-06-2024,21.04,web,Referral
+user_170,17-04-2024,74.60,app,Email Campaign
+user_171,03-10-2024,16.18,app,Google Ads
+user_171,03-11-2024,51.11,web,Email Campaign
+user_172,19-11-2024,67.33,web,Email Campaign
+user_172,05-05-2024,13.84,web,Referral
+user_172,11-09-2024,12.54,app,Email Campaign
+user_172,31-12-2024,82.81,web,Organic Search
+user_174,07-09-2024,38.05,web,Facebook Ads
+user_174,18-10-2024,66.86,web,Google Ads
+user_174,20-11-2024,49.77,app,Organic Search
+user_175,02-12-2024,34.92,web,Google Ads
+user_175,28-09-2024,84.52,web,Organic Search
+user_176,18-11-2024,8.15,web,Referral
+user_177,16-10-2024,68.17,web,Google Ads
+user_177,20-06-2024,68.72,web,Organic Search
+user_178,23-03-2024,26.54,web,Organic Search
+user_178,10-07-2024,97.80,web,Referral
+user_178,21-11-2024,45.04,web,Google Ads
+user_178,07-05-2024,97.41,app,Organic Search
+user_178,02-09-2024,84.75,app,Google Ads
+user_178,22-10-2024,64.68,web,Organic Search
+user_178,13-06-2024,71.85,web,Google Ads
+user_178,26-11-2024,9.38,web,Referral
+user_179,09-12-2024,12.05,web,Google Ads
+user_179,02-12-2024,11.13,app,Facebook Ads
+user_179,22-09-2024,61.36,app,Email Campaign
+user_179,21-07-2024,80.48,web,Organic Search
+user_179,23-07-2024,79.97,web,Email Campaign
+user_181,06-10-2024,7.39,web,Referral
+user_182,05-09-2024,78.52,web,Facebook Ads
+user_182,16-06-2024,21.21,app,Referral
+user_182,19-08-2024,65.76,web,Referral
+user_182,12-04-2024,27.25,app,Organic Search
+user_184,06-06-2024,43.66,app,Facebook Ads
+user_185,23-11-2024,62.39,app,Organic Search
+user_186,19-07-2024,50.79,web,Organic Search
+user_187,25-12-2024,5.73,web,Organic Search
+user_190,25-09-2024,32.03,app,Email Campaign
+user_190,17-10-2024,53.20,app,Email Campaign
+user_192,01-10-2024,74.34,app,Email Campaign
+user_193,13-12-2024,33.19,app,Referral
+user_193,23-12-2024,73.53,app,Email Campaign
+user_193,18-11-2024,8.85,app,Facebook Ads
+user_194,26-07-2024,13.77,web,Referral
+user_196,01-07-2024,94.46,web,Google Ads
+user_196,09-12-2024,39.38,web,Facebook Ads
+user_196,17-12-2024,18.19,web,Referral
+user_197,25-08-2024,75.39,web,Organic Search
+user_198,13-12-2024,33.03,web,Email Campaign
+user_199,19-04-2024,25.52,web,Google Ads
+user_199,20-12-2024,85.33,web,Facebook Ads
+user_199,08-06-2024,12.37,web,Facebook Ads
+user_199,31-03-2024,47.41,app,Organic Search
+user_199,12-09-2024,86.47,app,Organic Search
+user_200,04-08-2024,42.33,web,Facebook Ads
+user_200,29-09-2024,45.90,web,Google Ads
+user_200,05-11-2024,94.93,web,Facebook Ads
+user_200,30-08-2024,61.62,web,Email Campaign
+user_200,19-10-2024,25.70,app,Google Ads
+user_200,27-05-2024,70.39,web,Email Campaign
+user_200,02-07-2024,96.58,web,Organic Search
+user_202,30-05-2024,16.03,app,Email Campaign
+user_202,04-03-2024,89.40,web,Referral
+user_202,17-08-2024,98.48,web,Referral
+user_202,17-05-2024,97.22,app,Email Campaign
+user_202,12-07-2024,50.40,web,Email Campaign
+user_203,15-12-2024,83.55,app,Facebook Ads
+user_203,24-11-2024,96.81,web,Organic Search
+user_204,05-09-2024,24.69,app,Organic Search
+user_204,27-12-2024,33.55,web,Facebook Ads
+user_205,20-06-2024,8.75,web,Referral
+user_205,06-11-2024,17.58,web,Facebook Ads
+user_206,06-08-2024,87.65,web,Organic Search
+user_206,25-06-2024,80.45,web,Facebook Ads
+user_206,02-07-2024,97.11,app,Facebook Ads
+user_206,06-10-2024,50.92,app,Facebook Ads
+user_207,16-10-2024,46.92,web,Google Ads
+user_207,11-11-2024,73.94,app,Organic Search
+user_207,04-06-2024,47.13,web,Referral
+user_207,24-08-2024,24.05,web,Referral
+user_209,27-07-2024,88.93,web,Email Campaign
+user_209,30-11-2024,93.01,web,Email Campaign
+user_209,25-12-2024,73.66,web,Facebook Ads
+user_209,28-09-2024,66.22,app,Google Ads
+user_209,24-10-2024,74.64,web,Organic Search
+user_209,13-06-2024,24.06,app,Organic Search
+user_209,29-07-2024,37.47,web,Email Campaign
+user_210,18-11-2024,67.56,app,Referral
+user_210,18-06-2024,63.29,web,Google Ads
+user_210,28-07-2024,38.14,web,Referral
+user_210,03-11-2024,71.29,web,Organic Search
+user_210,14-09-2024,87.55,web,Google Ads
+user_211,31-10-2024,50.43,web,Facebook Ads
+user_211,22-06-2024,68.35,web,Facebook Ads
+user_211,07-10-2024,43.48,app,Email Campaign
+user_212,10-11-2024,25.39,web,Google Ads
+user_213,31-07-2024,52.79,web,Facebook Ads
+user_213,24-03-2024,11.82,web,Facebook Ads
+user_213,23-03-2024,81.38,web,Referral
+user_213,22-08-2024,92.10,app,Referral
+user_213,28-05-2024,20.07,app,Facebook Ads
+user_214,08-09-2024,35.17,web,Facebook Ads
+user_214,22-12-2024,72.93,web,Google Ads
+user_214,17-10-2024,84.74,web,Email Campaign
+user_214,25-12-2024,93.43,app,Organic Search
+user_214,15-12-2024,58.67,app,Referral
+user_214,29-10-2024,91.18,app,Organic Search
+user_215,04-11-2024,93.95,web,Google Ads
+user_216,02-12-2024,69.21,web,Email Campaign
+user_216,17-08-2024,22.37,web,Organic Search
+user_217,25-12-2024,79.27,web,Facebook Ads
+user_217,30-04-2024,52.36,web,Google Ads
+user_217,18-11-2024,15.54,web,Organic Search
+user_217,12-09-2024,5.27,app,Email Campaign
+user_217,17-08-2024,57.45,web,Facebook Ads
+user_217,05-02-2024,40.26,app,Google Ads
+user_217,29-04-2024,69.39,web,Facebook Ads
+user_217,23-08-2024,93.43,web,Organic Search
+user_218,24-06-2024,72.75,web,Referral
+user_218,17-06-2024,32.30,web,Google Ads
+user_218,15-07-2024,15.59,web,Referral
+user_218,19-07-2024,70.36,web,Facebook Ads
+user_219,26-10-2024,51.82,web,Google Ads
+user_219,14-11-2024,30.33,app,Google Ads
+user_219,30-12-2024,8.96,web,Google Ads
+user_220,30-09-2024,30.39,web,Referral
+user_220,30-10-2024,86.43,web,Facebook Ads
+user_220,31-10-2024,41.35,web,Email Campaign
+user_220,08-09-2024,46.37,web,Google Ads
+user_221,01-03-2024,38.07,web,Organic Search
+user_222,27-12-2024,85.47,web,Organic Search
+user_222,24-12-2024,62.58,web,Email Campaign
+user_222,13-12-2024,19.47,app,Email Campaign
+user_222,17-10-2024,28.43,web,Referral
+user_223,08-08-2024,95.99,app,Email Campaign
+user_223,08-11-2024,66.84,web,Referral
+user_223,21-08-2024,26.41,web,Facebook Ads
+user_223,30-08-2024,85.48,web,Organic Search
+user_225,12-11-2024,73.87,web,Google Ads
+user_225,01-10-2024,10.91,web,Email Campaign
+user_225,03-07-2024,64.94,web,Google Ads
+user_225,22-11-2024,27.98,web,Email Campaign
+user_226,20-12-2024,81.66,web,Facebook Ads
+user_226,22-10-2024,20.75,web,Referral
+user_228,26-12-2024,27.99,app,Referral
+user_228,30-12-2024,52.33,web,Organic Search
+user_229,15-12-2024,21.73,web,Facebook Ads
+user_231,08-12-2024,20.36,web,Referral
+user_232,26-09-2024,58.68,app,Referral
+user_233,18-04-2024,38.92,app,Facebook Ads
+user_233,23-11-2024,65.26,web,Referral
+user_233,07-05-2024,74.24,web,Email Campaign
+user_233,15-08-2024,7.77,web,Email Campaign
+user_233,02-09-2024,16.26,web,Organic Search
+user_233,16-04-2024,99.36,web,Email Campaign
+user_235,29-07-2024,47.21,web,Google Ads
+user_235,27-09-2024,28.85,web,Organic Search
+user_237,13-11-2024,76.42,web,Google Ads
+user_239,30-10-2024,60.25,web,Organic Search
+user_239,30-11-2024,36.00,app,Email Campaign
+user_240,20-09-2024,83.20,app,Facebook Ads
+user_240,04-09-2024,24.42,web,Organic Search
+user_240,31-08-2024,86.23,web,Google Ads
+user_240,22-11-2024,14.03,app,Email Campaign
+user_240,22-10-2024,70.89,app,Facebook Ads
+user_240,15-05-2024,19.40,app,Email Campaign
+user_241,02-07-2024,42.22,web,Google Ads
+user_241,29-12-2024,10.83,web,Google Ads
+user_241,09-09-2024,24.05,web,Email Campaign
+user_241,22-11-2024,26.89,web,Referral
+user_242,24-09-2024,35.90,app,Organic Search
+user_243,30-09-2024,98.56,app,Email Campaign
+user_243,21-12-2024,61.11,web,Organic Search
+user_243,28-11-2024,76.61,web,Facebook Ads
+user_243,27-10-2024,54.17,web,Facebook Ads
+user_243,16-09-2024,30.21,web,Referral
+user_243,05-06-2024,72.87,app,Google Ads
+user_243,24-08-2024,53.34,web,Google Ads
+user_243,13-05-2024,20.11,web,Organic Search
+user_244,15-06-2024,85.79,web,Facebook Ads
+user_244,07-09-2024,9.93,web,Referral
+user_244,03-11-2024,19.95,web,Google Ads
+user_244,16-03-2024,68.75,web,Google Ads
+user_244,02-12-2024,41.15,web,Referral
+user_244,04-12-2024,79.31,web,Facebook Ads
+user_247,08-09-2024,81.00,web,Referral
+user_247,01-04-2024,17.51,app,Referral
+user_247,16-04-2024,34.43,web,Organic Search
+user_247,20-11-2024,80.68,web,Organic Search
+user_247,05-05-2024,84.12,app,Facebook Ads
+user_247,05-12-2024,9.92,web,Email Campaign
+user_248,13-10-2024,74.61,web,Organic Search
+user_248,10-11-2024,32.15,web,Organic Search
+user_249,31-07-2024,94.72,web,Organic Search
+user_249,22-06-2024,76.34,web,Email Campaign
+user_249,21-11-2024,31.25,web,Google Ads
+user_249,20-09-2024,47.76,app,Facebook Ads
+user_249,21-02-2024,57.04,app,Google Ads
+user_250,26-10-2024,54.37,web,Organic Search
+user_250,12-12-2024,54.10,app,Facebook Ads
+user_250,23-07-2024,57.21,web,Facebook Ads
+user_250,26-10-2024,12.18,app,Organic Search
+user_251,11-09-2024,48.51,web,Facebook Ads
+user_251,07-10-2024,28.83,web,Google Ads
+user_251,13-07-2024,60.44,web,Organic Search
+user_251,30-07-2024,16.12,web,Email Campaign
+user_252,21-10-2024,60.82,app,Google Ads
+user_252,26-11-2024,64.61,web,Google Ads
+user_252,02-07-2024,47.77,app,Referral
+user_252,29-04-2024,84.78,web,Google Ads
+user_252,25-11-2024,46.19,web,Organic Search
+user_253,14-09-2024,46.27,app,Facebook Ads
+user_254,28-07-2024,71.58,web,Google Ads
+user_254,11-10-2024,88.36,app,Google Ads
+user_254,18-04-2024,12.33,app,Organic Search
+user_254,10-04-2024,45.35,web,Google Ads
+user_254,25-02-2024,12.71,app,Facebook Ads
+user_254,18-03-2024,41.41,web,Email Campaign
+user_254,01-08-2024,42.76,web,Organic Search
+user_255,07-09-2024,24.59,app,Google Ads
+user_255,25-12-2024,86.68,web,Organic Search
+user_255,23-08-2024,28.60,app,Facebook Ads
+user_256,30-12-2024,18.72,app,Facebook Ads
+user_256,24-06-2024,32.78,web,Google Ads
+user_256,13-11-2024,33.60,web,Email Campaign
+user_256,19-07-2024,93.08,web,Organic Search
+user_256,20-12-2024,43.83,app,Email Campaign
+user_257,09-08-2024,75.94,app,Referral
+user_257,10-10-2024,15.49,web,Referral
+user_257,06-12-2024,28.75,web,Google Ads
+user_261,23-04-2024,52.80,web,Email Campaign
+user_261,01-04-2024,84.60,app,Organic Search
+user_261,13-11-2024,6.26,web,Email Campaign
+user_261,01-04-2024,22.03,web,Email Campaign
+user_261,08-09-2024,5.19,app,Referral
+user_261,23-01-2024,33.19,web,Google Ads
+user_261,10-05-2024,20.75,app,Facebook Ads
+user_261,22-05-2024,65.29,web,Facebook Ads
+user_261,24-07-2024,25.13,web,Organic Search
+user_262,10-08-2024,98.69,web,Google Ads
+user_262,18-06-2024,69.50,web,Facebook Ads
+user_262,18-10-2024,87.70,web,Email Campaign
+user_262,17-07-2024,62.54,web,Email Campaign
+user_263,24-10-2024,24.59,web,Google Ads
+user_263,14-10-2024,78.43,app,Google Ads
+user_263,08-12-2024,80.31,web,Email Campaign
+user_263,05-11-2024,64.70,web,Referral
+user_263,01-11-2024,74.48,web,Google Ads
+user_264,21-07-2024,80.20,web,Organic Search
+user_264,19-08-2024,86.22,app,Organic Search
+user_264,11-08-2024,12.19,web,Facebook Ads
+user_264,12-05-2024,24.76,web,Referral
+user_264,19-11-2024,56.47,app,Referral
+user_264,19-07-2024,66.59,web,Facebook Ads
+user_265,19-12-2024,99.73,web,Email Campaign
+user_265,02-12-2024,38.30,web,Organic Search
+user_267,12-11-2024,50.98,web,Referral
+user_268,10-09-2024,11.31,app,Facebook Ads
+user_269,10-09-2024,75.51,web,Google Ads
+user_270,01-11-2024,19.87,web,Email Campaign
+user_270,24-10-2024,41.69,web,Google Ads
+user_270,10-10-2024,61.98,app,Referral
+user_271,06-08-2024,17.70,web,Facebook Ads
+user_272,20-12-2024,55.66,web,Organic Search
+user_273,23-11-2024,49.00,web,Organic Search
+user_274,16-12-2024,67.89,app,Referral
+user_276,13-06-2024,28.12,web,Facebook Ads
+user_276,01-09-2024,35.69,app,Organic Search
+user_276,27-10-2024,74.94,web,Email Campaign
+user_276,25-10-2024,13.96,app,Google Ads
+user_276,07-09-2024,72.15,app,Organic Search
+user_276,10-12-2024,90.79,app,Organic Search
+user_280,27-07-2024,64.34,app,Facebook Ads
+user_280,18-08-2024,11.59,web,Organic Search
+user_281,13-05-2024,41.98,web,Organic Search
+user_282,04-09-2024,40.29,web,Organic Search
+user_282,07-07-2024,47.09,web,Google Ads
+user_282,03-11-2024,72.93,web,Organic Search
+user_282,22-11-2024,69.10,web,Facebook Ads
+user_282,31-07-2024,20.90,web,Google Ads
+user_282,15-07-2024,71.23,web,Facebook Ads
+user_284,30-11-2024,24.40,web,Facebook Ads
+user_284,11-10-2024,95.13,web,Facebook Ads
+user_284,30-10-2024,7.37,web,Referral
+user_285,16-05-2024,96.29,web,Facebook Ads
+user_285,29-07-2024,88.75,web,Google Ads
+user_285,12-12-2024,66.04,web,Organic Search
+user_285,23-09-2024,71.75,web,Facebook Ads
+user_285,21-11-2024,62.65,app,Organic Search
+user_285,03-05-2024,52.65,app,Organic Search
+user_286,28-10-2024,89.04,web,Organic Search
+user_288,26-11-2024,89.73,web,Organic Search
+user_288,30-12-2024,11.75,web,Facebook Ads
+user_288,12-11-2024,30.51,web,Referral
+user_289,27-07-2024,20.77,web,Referral
+user_289,18-05-2024,19.78,web,Email Campaign
+user_289,18-05-2024,17.32,web,Google Ads
+user_290,16-05-2024,10.94,web,Referral
+user_290,12-12-2024,78.80,web,Facebook Ads
+user_290,03-06-2024,33.73,web,Email Campaign
+user_290,11-11-2024,60.17,web,Organic Search
+user_291,27-07-2024,48.66,web,Google Ads
+user_291,06-09-2024,31.78,web,Email Campaign
+user_291,20-08-2024,59.56,web,Google Ads
+user_291,06-09-2024,34.82,web,Email Campaign
+user_291,24-06-2024,89.50,web,Organic Search
+user_291,13-08-2024,49.73,web,Referral
+user_292,14-09-2024,43.65,web,Referral
+user_294,19-04-2024,40.36,web,Referral
+user_294,31-03-2024,31.47,web,Email Campaign
+user_294,10-10-2024,83.44,web,Email Campaign
+user_294,25-08-2024,58.08,web,Organic Search
+user_295,26-11-2024,57.89,app,Email Campaign
+user_297,26-02-2024,87.71,app,Referral
+user_297,04-08-2024,27.05,web,Google Ads
+user_297,11-10-2024,32.93,web,Organic Search
+user_297,30-04-2024,94.74,web,Organic Search
+user_298,17-08-2024,77.24,web,Email Campaign
+user_298,19-11-2024,40.70,app,Facebook Ads
+user_299,29-08-2024,9.32,web,Organic Search
+user_299,27-07-2024,68.65,web,Referral
+user_299,25-05-2024,9.77,web,Google Ads
+user_300,30-06-2024,80.62,app,Google Ads
+user_300,16-11-2024,73.84,web,Google Ads
+user_300,09-09-2024,92.62,web,Organic Search
+user_300,10-08-2024,42.25,app,Organic Search
+user_302,05-06-2024,6.82,app,Google Ads
+user_302,08-10-2024,44.77,web,Email Campaign
+user_302,18-06-2024,32.91,web,Referral
+user_302,23-11-2024,67.07,web,Referral
+user_303,04-06-2024,61.96,web,Facebook Ads
+user_303,01-08-2024,31.75,app,Referral
+user_304,27-11-2024,64.16,app,Facebook Ads
+user_307,30-10-2024,48.02,web,Organic Search
+user_307,20-08-2024,27.80,app,Email Campaign
+user_307,30-04-2024,91.76,web,Facebook Ads
+user_307,17-06-2024,76.36,app,Facebook Ads
+user_307,02-11-2024,90.91,app,Facebook Ads
+user_307,27-07-2024,5.65,web,Email Campaign
+user_307,19-05-2024,44.06,web,Facebook Ads
+user_308,27-09-2024,34.82,web,Google Ads
+user_308,15-08-2024,74.32,app,Email Campaign
+user_309,24-11-2024,21.47,web,Referral
+user_310,03-10-2024,20.62,web,Email Campaign
+user_310,17-11-2024,90.73,web,Referral
+user_310,08-12-2024,93.50,app,Organic Search
+user_311,28-10-2024,79.10,web,Email Campaign
+user_311,04-10-2024,16.28,app,Email Campaign
+user_312,10-05-2024,61.51,app,Referral
+user_312,11-04-2024,87.03,web,Facebook Ads
+user_312,03-10-2024,58.96,web,Email Campaign
+user_312,18-10-2024,98.44,web,Facebook Ads
+user_313,10-12-2024,9.78,web,Referral
+user_313,10-08-2024,99.00,web,Google Ads
+user_313,30-12-2024,90.29,app,Organic Search
+user_314,29-12-2024,9.92,web,Email Campaign
+user_314,29-11-2024,84.29,web,Email Campaign
+user_314,17-12-2024,26.02,web,Email Campaign
+user_314,27-11-2024,83.24,web,Google Ads
+user_314,17-12-2024,6.59,web,Facebook Ads
+user_315,29-08-2024,94.03,web,Organic Search
+user_315,27-12-2024,36.55,app,Email Campaign
+user_315,16-09-2024,16.05,web,Organic Search
+user_315,11-11-2024,69.73,app,Referral
+user_316,31-12-2024,15.06,web,Email Campaign
+user_319,03-11-2024,9.77,web,Facebook Ads
+user_319,17-06-2024,64.83,web,Facebook Ads
+user_319,30-09-2024,55.47,web,Email Campaign
+user_319,13-04-2024,47.17,app,Email Campaign
+user_319,14-06-2024,27.53,web,Email Campaign
+user_319,19-02-2024,28.86,app,Facebook Ads
+user_319,19-05-2024,31.07,app,Organic Search
+user_321,22-08-2024,17.58,web,Organic Search
+user_321,03-08-2024,99.77,web,Google Ads
+user_321,18-08-2024,16.44,app,Facebook Ads
+user_321,22-10-2024,89.28,web,Referral
+user_321,30-08-2024,78.75,web,Google Ads
+user_322,03-12-2024,67.86,web,Facebook Ads
+user_322,19-11-2024,83.86,app,Google Ads
+user_323,16-12-2024,25.30,web,Organic Search
+user_323,10-11-2024,86.51,app,Google Ads
+user_324,19-11-2024,30.79,app,Referral
+user_325,10-11-2024,35.17,web,Email Campaign
+user_326,24-12-2024,32.30,web,Facebook Ads
+user_327,29-10-2024,77.11,app,Referral
+user_327,11-10-2024,24.82,web,Referral
+user_327,22-11-2024,74.72,web,Facebook Ads
+user_329,22-06-2024,28.42,app,Referral
+user_329,24-02-2024,37.04,web,Google Ads
+user_329,20-09-2024,15.56,web,Referral
+user_330,04-06-2024,56.83,web,Email Campaign
+user_330,29-09-2024,55.84,web,Referral
+user_330,11-08-2024,99.30,web,Referral
+user_330,20-10-2024,21.06,web,Organic Search
+user_330,01-12-2024,65.60,app,Facebook Ads
+user_331,23-09-2024,63.78,web,Email Campaign
+user_331,31-08-2024,31.50,web,Email Campaign
+user_331,20-05-2024,62.30,web,Referral
+user_331,19-08-2024,49.74,web,Google Ads
+user_332,30-10-2024,29.04,app,Referral
+user_332,03-05-2024,16.97,app,Organic Search
+user_332,26-10-2024,35.81,web,Google Ads
+user_332,13-10-2024,62.30,web,Referral
+user_333,22-04-2024,31.21,app,Email Campaign
+user_333,21-10-2024,70.77,web,Email Campaign
+user_333,11-03-2024,28.85,web,Email Campaign
+user_333,20-02-2024,16.59,app,Organic Search
+user_333,10-03-2024,99.71,web,Google Ads
+user_334,24-03-2024,49.21,web,Google Ads
+user_334,24-08-2024,84.99,web,Facebook Ads
+user_335,13-10-2024,21.59,web,Google Ads
+user_336,25-10-2024,89.59,web,Email Campaign
+user_337,11-09-2024,17.11,app,Facebook Ads
+user_337,15-09-2024,18.61,app,Referral
+user_337,10-05-2024,54.92,web,Referral
+user_337,21-11-2024,34.25,app,Referral
+user_337,06-05-2024,60.21,web,Email Campaign
+user_338,08-09-2024,17.14,web,Referral
+user_338,22-08-2024,57.87,web,Referral
+user_338,12-11-2024,48.76,web,Email Campaign
+user_338,13-09-2024,89.96,web,Organic Search
+user_340,20-12-2024,19.08,web,Email Campaign
+user_341,28-11-2024,57.55,app,Facebook Ads
+user_341,16-12-2024,27.83,web,Referral
+user_342,18-06-2024,83.82,app,Organic Search
+user_342,28-05-2024,87.99,app,Organic Search
+user_342,14-10-2024,35.40,web,Google Ads
+user_342,15-10-2024,68.89,web,Email Campaign
+user_342,25-07-2024,17.65,web,Organic Search
+user_342,18-10-2024,59.96,web,Email Campaign
+user_343,26-08-2024,87.92,web,Organic Search
+user_343,01-09-2024,79.13,web,Google Ads
+user_343,06-06-2024,34.22,web,Email Campaign
+user_345,19-11-2024,31.40,app,Organic Search
+user_345,21-09-2024,15.02,web,Organic Search
+user_345,27-06-2024,33.09,app,Facebook Ads
+user_346,20-10-2024,97.82,web,Referral
+user_347,27-12-2024,74.58,app,Email Campaign
+user_348,19-06-2024,36.48,web,Organic Search
+user_348,03-05-2024,48.15,web,Google Ads
+user_348,27-11-2024,80.05,web,Organic Search
+user_348,22-05-2024,82.50,web,Google Ads
+user_348,07-10-2024,20.77,web,Referral
+user_348,20-11-2024,15.84,app,Email Campaign
+user_349,17-11-2024,63.33,web,Referral
+user_349,29-10-2024,44.42,app,Google Ads
+user_349,19-12-2024,29.93,web,Facebook Ads
+user_350,03-11-2024,20.44,web,Referral
+user_350,03-11-2024,8.99,web,Email Campaign
+user_351,16-09-2024,29.15,web,Referral
+user_351,09-05-2024,69.45,web,Google Ads
+user_351,01-06-2024,21.35,app,Organic Search
+user_352,24-02-2024,94.26,app,Google Ads
+user_352,27-05-2024,24.07,web,Facebook Ads
+user_352,03-05-2024,92.00,web,Facebook Ads
+user_352,15-07-2024,23.54,web,Facebook Ads
+user_353,21-11-2024,42.44,web,Organic Search
+user_353,08-07-2024,45.15,app,Google Ads
+user_353,01-05-2024,19.17,app,Organic Search
+user_353,30-11-2024,13.18,app,Google Ads
+user_353,19-11-2024,17.56,web,Referral
+user_353,17-09-2024,10.18,web,Organic Search
+user_353,25-10-2024,41.41,web,Google Ads
+user_354,02-11-2024,80.98,web,Referral
+user_354,08-12-2024,49.28,web,Email Campaign
+user_354,20-09-2024,28.50,app,Referral
+user_355,24-09-2024,10.66,web,Facebook Ads
+user_355,19-06-2024,54.72,web,Facebook Ads
+user_356,30-05-2024,41.74,web,Email Campaign
+user_356,25-09-2024,88.94,web,Facebook Ads
+user_357,19-09-2024,7.45,web,Email Campaign
+user_357,05-07-2024,58.00,app,Google Ads
+user_358,22-11-2024,22.60,web,Email Campaign
+user_358,11-04-2024,36.39,web,Google Ads
+user_358,22-04-2024,98.48,app,Google Ads
+user_358,28-09-2024,70.62,app,Google Ads
+user_358,28-04-2024,93.16,web,Referral
+user_360,28-07-2024,77.77,web,Referral
+user_360,01-10-2024,36.86,web,Facebook Ads
+user_361,11-10-2024,34.96,web,Email Campaign
+user_361,20-07-2024,14.21,web,Facebook Ads
+user_361,11-03-2024,60.83,web,Referral
+user_361,28-04-2024,64.64,web,Organic Search
+user_361,09-02-2024,35.87,web,Email Campaign
+user_361,08-08-2024,42.94,web,Organic Search
+user_361,08-12-2024,81.99,web,Referral
+user_361,10-07-2024,40.35,web,Referral
+user_362,14-05-2024,18.30,web,Email Campaign
+user_363,20-11-2024,65.12,app,Email Campaign
+user_363,20-12-2024,6.05,app,Email Campaign
+user_364,21-09-2024,68.58,web,Email Campaign
+user_364,22-10-2024,59.68,web,Google Ads
+user_364,09-09-2024,57.58,web,Facebook Ads
+user_364,25-08-2024,75.52,web,Facebook Ads
+user_364,11-10-2024,79.12,web,Organic Search
+user_364,13-10-2024,75.75,web,Email Campaign
+user_365,06-07-2024,46.85,web,Email Campaign
+user_365,21-07-2024,61.93,web,Google Ads
+user_365,17-06-2024,5.61,web,Google Ads
+user_365,28-05-2024,13.67,web,Facebook Ads
+user_365,05-10-2024,17.22,web,Google Ads
+user_365,19-09-2024,7.94,app,Referral
+user_366,08-07-2024,23.65,web,Referral
+user_366,10-11-2024,59.83,app,Facebook Ads
+user_367,22-08-2024,76.24,app,Google Ads
+user_367,08-09-2024,22.17,web,Referral
+user_368,18-03-2024,60.86,web,Google Ads
+user_368,21-03-2024,21.85,app,Facebook Ads
+user_368,03-03-2024,72.92,web,Referral
+user_368,27-12-2024,62.46,web,Google Ads
+user_368,21-05-2024,80.87,app,Organic Search
+user_368,06-12-2024,72.17,web,Facebook Ads
+user_369,14-04-2024,6.80,app,Email Campaign
+user_369,05-07-2024,17.63,web,Google Ads
+user_370,30-12-2024,90.81,web,Referral
+user_370,29-10-2024,27.71,app,Referral
+user_371,31-10-2024,24.92,app,Email Campaign
+user_372,27-12-2024,40.52,app,Google Ads
+user_372,04-12-2024,17.42,web,Email Campaign
+user_372,04-10-2024,59.63,web,Organic Search
+user_372,07-12-2024,18.99,web,Referral
+user_373,22-12-2024,82.15,app,Google Ads
+user_373,04-09-2024,85.38,web,Referral
+user_373,07-08-2024,7.43,app,Organic Search
+user_374,15-10-2024,81.84,app,Email Campaign
+user_374,03-08-2024,86.44,app,Google Ads
+user_374,02-08-2024,70.58,app,Email Campaign
+user_374,30-11-2024,36.50,web,Organic Search
+user_374,22-08-2024,28.14,web,Referral
+user_374,10-10-2024,86.83,web,Facebook Ads
+user_375,24-08-2024,27.38,app,Organic Search
+user_375,24-11-2024,32.50,app,Google Ads
+user_375,10-06-2024,71.98,app,Referral
+user_375,28-03-2024,87.94,web,Organic Search
+user_375,23-02-2024,50.17,app,Referral
+user_376,11-06-2024,84.46,web,Facebook Ads
+user_376,12-04-2024,73.44,web,Google Ads
+user_376,23-09-2024,80.34,app,Organic Search
+user_376,02-08-2024,15.01,app,Email Campaign
+user_376,22-12-2024,39.48,app,Referral
+user_376,09-07-2024,63.14,web,Facebook Ads
+user_377,23-10-2024,86.94,web,Organic Search
+user_377,03-08-2024,94.50,web,Email Campaign
+user_377,08-10-2024,6.02,web,Google Ads
+user_377,29-02-2024,40.07,web,Google Ads
+user_377,03-05-2024,20.91,web,Email Campaign
+user_378,20-02-2024,98.36,web,Google Ads
+user_378,05-05-2024,61.56,web,Email Campaign
+user_378,08-10-2024,82.67,app,Facebook Ads
+user_378,07-06-2024,68.99,web,Facebook Ads
+user_378,15-06-2024,93.43,web,Google Ads
+user_378,27-12-2024,29.66,web,Organic Search
+user_378,21-05-2024,59.22,web,Facebook Ads
+user_378,09-08-2024,15.01,web,Facebook Ads
+user_379,09-09-2024,73.78,app,Google Ads
+user_379,05-06-2024,16.32,web,Facebook Ads
+user_379,22-11-2024,75.68,app,Facebook Ads
+user_379,17-09-2024,76.19,app,Facebook Ads
+user_379,30-08-2024,76.27,web,Google Ads
+user_380,17-07-2024,37.42,web,Email Campaign
+user_380,05-04-2024,78.45,web,Facebook Ads
+user_380,26-11-2024,8.58,app,Facebook Ads
+user_380,02-05-2024,58.43,web,Facebook Ads
+user_380,28-07-2024,89.22,web,Facebook Ads
+user_380,28-10-2024,72.11,web,Organic Search
+user_381,27-12-2024,6.74,app,Organic Search
+user_381,04-09-2024,95.38,web,Organic Search
+user_382,05-12-2024,97.86,app,Organic Search
+user_383,18-05-2024,84.80,web,Facebook Ads
+user_383,14-10-2024,99.41,web,Google Ads
+user_383,04-09-2024,79.40,web,Organic Search
+user_383,07-04-2024,11.70,app,Email Campaign
+user_383,14-12-2024,87.14,web,Google Ads
+user_383,07-08-2024,50.27,app,Referral
+user_383,11-04-2024,50.87,web,Referral
+user_383,15-04-2024,84.46,web,Google Ads
+user_383,15-08-2024,89.38,web,Referral
+user_385,29-08-2024,71.59,web,Google Ads
+user_385,22-08-2024,80.66,app,Referral
+user_385,11-08-2024,19.80,web,Organic Search
+user_385,19-05-2024,22.67,app,Email Campaign
+user_385,18-05-2024,97.11,app,Referral
+user_385,22-07-2024,86.03,web,Email Campaign
+user_386,30-05-2024,53.27,web,Email Campaign
+user_386,26-07-2024,77.96,web,Email Campaign
+user_387,21-09-2024,55.46,app,Facebook Ads
+user_387,07-05-2024,71.17,app,Google Ads
+user_388,25-11-2024,68.78,app,Facebook Ads
+user_389,10-11-2024,70.44,web,Referral
+user_389,24-10-2024,45.47,app,Facebook Ads
+user_389,19-10-2024,62.09,web,Organic Search
+user_389,24-10-2024,23.35,web,Facebook Ads
+user_389,06-08-2024,40.93,web,Email Campaign
+user_390,14-10-2024,73.90,web,Email Campaign
+user_390,11-09-2024,12.66,web,Google Ads
+user_390,24-12-2024,27.00,app,Google Ads
+user_390,16-12-2024,37.57,web,Facebook Ads
+user_390,03-11-2024,24.55,app,Email Campaign
+user_391,29-11-2024,12.69,app,Facebook Ads
+user_392,05-05-2024,24.12,app,Email Campaign
+user_392,23-09-2024,5.36,web,Organic Search
+user_392,31-05-2024,9.71,web,Referral
+user_392,17-10-2024,75.67,app,Google Ads
+user_392,16-07-2024,37.50,app,Facebook Ads
+user_393,24-07-2024,82.12,web,Organic Search
+user_393,27-06-2024,85.60,web,Referral
+user_394,11-06-2024,75.45,app,Email Campaign
+user_395,13-03-2024,43.18,web,Facebook Ads
+user_396,16-10-2024,65.30,web,Google Ads
+user_396,05-11-2024,24.39,web,Facebook Ads
+user_396,03-10-2024,50.85,web,Referral
+user_396,11-08-2024,72.94,app,Referral
+user_397,22-12-2024,54.88,app,Facebook Ads
+user_401,14-12-2024,34.39,app,Email Campaign
+user_401,25-09-2024,21.95,web,Referral
+user_401,18-07-2024,63.34,web,Organic Search
+user_401,04-12-2024,24.66,app,Email Campaign
+user_402,19-03-2024,31.04,app,Email Campaign
+user_402,31-03-2024,79.96,web,Organic Search
+user_402,09-06-2024,32.22,web,Email Campaign
+user_402,30-11-2024,71.91,app,Email Campaign
+user_402,12-04-2024,34.10,web,Facebook Ads
+user_402,26-07-2024,23.32,web,Facebook Ads
+user_402,24-08-2024,83.06,web,Organic Search
+user_403,16-09-2024,21.59,app,Email Campaign
+user_404,08-09-2024,60.36,web,Referral
+user_404,19-07-2024,73.51,web,Email Campaign
+user_404,16-09-2024,51.53,web,Organic Search
+user_404,31-08-2024,54.33,web,Referral
+user_405,31-10-2024,86.32,app,Email Campaign
+user_405,06-11-2024,92.65,web,Google Ads
+user_406,19-08-2024,35.02,app,Facebook Ads
+user_406,28-11-2024,64.23,web,Organic Search
+user_406,03-11-2024,97.38,web,Email Campaign
+user_406,01-09-2024,27.48,web,Organic Search
+user_406,24-07-2024,12.12,web,Referral
+user_407,29-07-2024,98.21,web,Facebook Ads
+user_407,23-08-2024,10.01,app,Email Campaign
+user_407,30-08-2024,57.01,app,Facebook Ads
+user_407,15-07-2024,14.55,web,Referral
+user_407,15-10-2024,38.27,web,Referral
+user_408,10-11-2024,87.51,web,Google Ads
+user_408,07-07-2024,71.58,web,Organic Search
+user_409,12-12-2024,92.84,web,Facebook Ads
+user_409,20-09-2024,57.00,web,Email Campaign
+user_410,17-09-2024,91.09,app,Facebook Ads
+user_410,18-09-2024,86.76,web,Email Campaign
+user_410,29-09-2024,37.86,web,Referral
+user_410,04-08-2024,20.26,web,Organic Search
+user_412,14-06-2024,43.23,web,Referral
+user_412,19-11-2024,50.05,web,Facebook Ads
+user_412,03-10-2024,35.99,web,Email Campaign
+user_412,10-12-2024,85.49,web,Organic Search
+user_412,26-09-2024,37.48,app,Email Campaign
+user_413,03-11-2024,56.14,app,Referral
+user_414,23-11-2024,94.43,web,Organic Search
+user_415,21-12-2024,25.44,web,Email Campaign
+user_416,03-11-2024,34.48,web,Organic Search
+user_416,31-05-2024,33.93,app,Facebook Ads
+user_416,22-12-2024,40.83,app,Organic Search
+user_416,30-05-2024,87.61,web,Organic Search
+user_416,23-07-2024,67.09,web,Referral
+user_417,08-10-2024,26.69,web,Email Campaign
+user_417,11-09-2024,20.96,web,Organic Search
+user_418,17-05-2024,37.20,app,Referral
+user_418,27-05-2024,44.02,web,Facebook Ads
+user_418,17-05-2024,70.71,web,Organic Search
+user_418,05-07-2024,86.40,web,Facebook Ads
+user_418,17-06-2024,55.93,app,Organic Search
+user_419,03-11-2024,86.98,web,Google Ads
+user_419,26-09-2024,57.22,web,Referral
+user_420,24-11-2024,10.19,app,Email Campaign
+user_420,08-10-2024,86.50,web,Facebook Ads
+user_420,02-11-2024,53.75,app,Organic Search
+user_421,30-12-2024,36.61,app,Email Campaign
+user_421,29-10-2024,98.87,web,Email Campaign
+user_421,14-09-2024,72.42,app,Organic Search
+user_421,05-12-2024,96.33,web,Email Campaign
+user_421,23-10-2024,7.08,app,Google Ads
+user_422,23-12-2024,32.57,web,Email Campaign
+user_423,12-11-2024,80.24,app,Referral
+user_423,27-12-2024,53.42,app,Facebook Ads
+user_423,10-11-2024,63.43,app,Referral
+user_423,04-10-2024,89.59,web,Email Campaign
+user_423,23-04-2024,35.81,app,Organic Search
+user_423,15-10-2024,60.82,app,Organic Search
+user_423,24-11-2024,47.52,app,Email Campaign
+user_424,13-08-2024,13.26,web,Organic Search
+user_424,20-05-2024,80.45,web,Organic Search
+user_424,21-09-2024,69.57,web,Facebook Ads
+user_424,05-04-2024,94.53,app,Organic Search
+user_424,07-11-2024,47.74,web,Google Ads
+user_425,21-11-2024,88.85,web,Referral
+user_426,12-12-2024,71.02,web,Google Ads
+user_426,30-07-2024,85.93,app,Google Ads
+user_426,19-11-2024,37.96,web,Referral
+user_428,24-08-2024,27.42,web,Referral
+user_428,10-09-2024,85.26,web,Referral
+user_428,05-05-2024,67.16,app,Facebook Ads
+user_428,28-06-2024,60.40,app,Referral
+user_429,25-08-2024,28.18,app,Organic Search
+user_429,28-04-2024,28.53,web,Referral
+user_430,18-12-2024,30.34,web,Email Campaign
+user_430,27-09-2024,83.07,web,Google Ads
+user_431,11-10-2024,5.65,app,Facebook Ads
+user_431,29-06-2024,54.64,web,Google Ads
+user_431,29-10-2024,43.49,web,Organic Search
+user_431,24-12-2024,41.18,web,Facebook Ads
+user_431,31-10-2024,51.75,app,Organic Search
+user_432,09-11-2024,7.88,app,Facebook Ads
+user_432,15-02-2024,17.71,app,Organic Search
+user_433,01-10-2024,56.76,web,Google Ads
+user_434,09-12-2024,44.06,app,Organic Search
+user_434,03-12-2024,39.83,web,Referral
+user_434,11-10-2024,95.69,app,Google Ads
+user_435,18-08-2024,53.06,app,Referral
+user_435,11-11-2024,39.17,web,Google Ads
+user_436,29-11-2024,43.87,web,Organic Search
+user_436,05-10-2024,33.89,app,Organic Search
+user_436,21-11-2024,70.83,app,Google Ads
+user_436,26-09-2024,91.93,web,Email Campaign
+user_437,19-09-2024,54.24,app,Email Campaign
+user_438,15-08-2024,9.86,web,Email Campaign
+user_438,14-08-2024,93.32,web,Referral
+user_438,25-12-2024,33.31,web,Email Campaign
+user_439,23-11-2024,78.71,app,Referral
+user_439,27-06-2024,46.67,web,Email Campaign
+user_439,18-05-2024,66.41,web,Email Campaign
+user_439,29-12-2024,65.70,web,Organic Search
+user_439,15-08-2024,30.19,web,Referral
+user_439,20-06-2024,25.93,web,Organic Search
+user_440,05-06-2024,55.18,web,Organic Search
+user_441,28-09-2024,17.26,app,Email Campaign
+user_441,06-08-2024,47.26,app,Organic Search
+user_441,08-05-2024,41.74,app,Email Campaign
+user_441,10-11-2024,72.48,web,Google Ads
+user_442,29-10-2024,46.49,web,Email Campaign
+user_442,14-05-2024,7.34,web,Organic Search
+user_442,24-05-2024,43.75,web,Facebook Ads
+user_442,02-08-2024,13.72,web,Organic Search
+user_442,12-11-2024,53.85,web,Referral
+user_442,14-08-2024,77.95,app,Referral
+user_443,28-08-2024,14.22,web,Email Campaign
+user_443,15-09-2024,86.54,web,Email Campaign
+user_443,18-07-2024,31.14,web,Email Campaign
+user_446,02-11-2024,89.63,web,Organic Search
+user_448,26-09-2024,57.30,web,Email Campaign
+user_449,16-11-2024,62.55,web,Email Campaign
+user_449,22-12-2024,76.88,web,Referral
+user_451,19-11-2024,82.85,web,Google Ads
+user_451,12-09-2024,31.05,web,Organic Search
+user_452,18-09-2024,24.56,web,Organic Search
+user_452,04-10-2024,17.34,web,Email Campaign
+user_452,14-12-2024,12.35,web,Google Ads
+user_452,10-12-2024,82.22,web,Email Campaign
+user_452,12-10-2024,11.73,web,Facebook Ads
+user_453,11-11-2024,32.18,web,Google Ads
+user_454,30-10-2024,78.58,web,Referral
+user_454,08-10-2024,18.70,app,Referral
+user_454,30-09-2024,76.60,web,Google Ads
+user_455,31-12-2024,93.16,web,Organic Search
+user_455,18-06-2024,91.08,web,Organic Search
+user_455,15-04-2024,91.95,web,Facebook Ads
+user_457,04-09-2024,94.84,web,Google Ads
+user_458,25-05-2024,82.74,web,Google Ads
+user_458,23-04-2024,45.18,app,Organic Search
+user_458,25-02-2024,47.97,app,Email Campaign
+user_458,02-08-2024,56.77,web,Referral
+user_458,02-08-2024,20.67,web,Facebook Ads
+user_458,25-02-2024,26.79,web,Referral
+user_458,16-05-2024,6.68,web,Facebook Ads
+user_458,28-04-2024,45.94,web,Organic Search
+user_459,28-05-2024,22.43,web,Organic Search
+user_459,26-05-2024,26.50,web,Organic Search
+user_459,19-02-2024,15.17,app,Email Campaign
+user_459,09-05-2024,41.37,web,Referral
+user_459,02-06-2024,47.68,app,Email Campaign
+user_459,14-12-2024,27.74,web,Referral
+user_460,02-06-2024,30.79,web,Facebook Ads
+user_460,14-10-2024,34.99,app,Email Campaign
+user_460,14-08-2024,48.49,web,Organic Search
+user_461,23-06-2024,21.53,web,Facebook Ads
+user_461,18-11-2024,91.70,web,Google Ads
+user_462,13-10-2024,27.50,web,Facebook Ads
+user_462,20-09-2024,97.86,app,Google Ads
+user_462,16-11-2024,54.56,web,Email Campaign
+user_462,21-11-2024,24.36,web,Google Ads
+user_463,04-03-2024,64.82,web,Email Campaign
+user_463,18-10-2024,98.69,app,Google Ads
+user_466,11-06-2024,72.32,app,Organic Search
+user_466,06-08-2024,65.54,web,Organic Search
+user_466,29-02-2024,50.08,app,Email Campaign
+user_466,11-09-2024,80.66,web,Facebook Ads
+user_466,17-09-2024,44.04,web,Facebook Ads
+user_467,02-07-2024,13.89,web,Email Campaign
+user_467,27-09-2024,47.72,web,Email Campaign
+user_468,30-07-2024,85.90,app,Email Campaign
+user_468,30-10-2024,6.81,web,Organic Search
+user_468,16-05-2024,65.05,web,Organic Search
+user_468,23-09-2024,76.30,app,Google Ads
+user_468,21-11-2024,74.56,web,Facebook Ads
+user_469,25-08-2024,64.66,app,Facebook Ads
+user_469,21-09-2024,29.54,app,Google Ads
+user_469,26-08-2024,47.57,web,Facebook Ads
+user_469,05-09-2024,64.55,web,Google Ads
+user_469,12-10-2024,46.94,web,Facebook Ads
+user_469,22-09-2024,81.08,web,Facebook Ads
+user_469,22-07-2024,63.78,web,Email Campaign
+user_469,13-11-2024,91.91,web,Facebook Ads
+user_470,25-08-2024,65.52,app,Facebook Ads
+user_470,15-08-2024,64.18,web,Email Campaign
+user_470,17-11-2024,25.94,web,Facebook Ads
+user_470,30-12-2024,72.49,web,Organic Search
+user_470,15-09-2024,86.24,web,Google Ads
+user_471,22-08-2024,96.63,web,Referral
+user_472,06-08-2024,5.46,web,Referral
+user_472,14-09-2024,7.34,web,Organic Search
+user_473,07-12-2024,27.70,web,Referral
+user_473,20-12-2024,92.88,web,Google Ads
+user_475,18-09-2024,18.93,web,Google Ads
+user_475,29-11-2024,9.26,web,Facebook Ads
+user_475,19-11-2024,78.12,app,Email Campaign
+user_475,08-11-2024,94.98,web,Referral
+user_475,27-02-2024,90.27,app,Facebook Ads
+user_476,01-11-2024,80.17,web,Email Campaign
+user_476,08-06-2024,95.46,web,Google Ads
+user_476,17-10-2024,96.67,web,Email Campaign
+user_476,08-07-2024,96.23,web,Google Ads
+user_477,10-05-2024,93.57,web,Email Campaign
+user_477,10-06-2024,6.26,web,Email Campaign
+user_478,18-10-2024,68.40,web,Google Ads
+user_478,06-10-2024,51.10,web,Google Ads
+user_478,11-09-2024,21.38,app,Referral
+user_481,14-08-2024,13.50,web,Email Campaign
+user_481,06-09-2024,96.49,app,Referral
+user_482,10-09-2024,96.28,app,Referral
+user_482,11-12-2024,77.50,app,Facebook Ads
+user_482,29-06-2024,61.39,web,Organic Search
+user_482,24-07-2024,77.09,web,Google Ads
+user_484,30-11-2024,39.34,web,Email Campaign
+user_485,03-12-2024,51.83,web,Google Ads
+user_485,23-06-2024,60.85,app,Google Ads
+user_486,03-12-2024,51.22,web,Referral
+user_487,16-12-2024,33.98,web,Email Campaign
+user_487,12-12-2024,35.70,web,Referral
+user_487,26-12-2024,96.72,web,Google Ads
+user_488,12-10-2024,24.57,app,Email Campaign
+user_488,23-08-2024,37.18,web,Email Campaign
+user_488,24-12-2024,60.43,web,Google Ads
+user_488,10-11-2024,22.44,app,Organic Search
+user_488,26-08-2024,30.42,web,Referral
+user_489,25-10-2024,97.77,web,Referral
+user_489,24-05-2024,71.73,web,Referral
+user_489,16-10-2024,68.85,web,Email Campaign
+user_489,08-12-2024,99.95,app,Referral
+user_489,13-07-2024,15.94,web,Organic Search
+user_490,11-07-2024,56.27,web,Facebook Ads
+user_490,04-09-2024,14.72,web,Facebook Ads
+user_490,25-11-2024,65.55,app,Organic Search
+user_490,23-12-2024,15.30,app,Email Campaign
+user_491,15-06-2024,43.34,app,Organic Search
+user_491,27-08-2024,68.90,web,Referral
+user_491,03-05-2024,8.08,app,Organic Search
+user_491,04-03-2024,17.93,app,Referral
+user_491,20-12-2024,74.34,app,Referral
+user_491,27-02-2024,24.45,web,Email Campaign
+user_493,16-05-2024,53.63,web,Organic Search
+user_494,04-09-2024,36.51,app,Email Campaign
+user_494,13-12-2024,52.42,web,Referral
+user_494,17-06-2024,81.26,app,Organic Search
+user_494,20-12-2024,17.88,web,Email Campaign
+user_495,21-11-2024,5.21,web,Google Ads
+user_495,18-11-2024,13.90,app,Referral
+user_496,14-12-2024,95.05,web,Facebook Ads
+user_497,01-12-2024,78.42,app,Facebook Ads
+user_497,30-08-2024,72.19,web,Referral
+user_497,15-10-2024,16.53,app,Facebook Ads
+user_498,23-08-2024,91.58,web,Facebook Ads
+user_498,12-09-2024,85.10,web,Organic Search
+user_498,31-12-2024,87.35,app,Email Campaign
+user_498,22-10-2024,56.69,app,Organic Search
+user_498,03-08-2024,21.07,web,Google Ads
+user_498,24-03-2024,13.18,web,Organic Search
+user_498,19-04-2024,15.98,web,Organic Search
+user_498,17-09-2024,92.17,web,Google Ads
+user_498,02-09-2024,16.45,app,Organic Search
+user_499,27-12-2024,9.83,app,Organic Search
+user_499,20-11-2024,94.38,web,Facebook Ads
+user_499,24-11-2024,84.38,app,Email Campaign
+user_499,15-12-2024,39.63,app,Referral
+user_500,02-10-2024,18.45,web,Google Ads
+user_500,29-11-2024,33.78,app,Facebook Ads
+user_502,16-10-2024,71.80,web,Organic Search
+user_502,18-07-2024,20.54,web,Email Campaign
+user_504,30-11-2024,50.97,app,Email Campaign
+user_506,23-07-2024,12.29,web,Facebook Ads
+user_506,30-11-2024,69.85,app,Google Ads
+user_506,12-11-2024,98.00,web,Referral
+user_506,27-06-2024,45.04,web,Google Ads
+user_506,14-07-2024,77.43,app,Referral
+user_506,15-11-2024,66.84,app,Referral
+user_507,01-08-2024,31.00,app,Google Ads
+user_507,16-05-2024,72.43,web,Referral
+user_507,26-03-2024,8.57,web,Facebook Ads
+user_507,20-05-2024,97.00,web,Google Ads
+user_509,30-09-2024,49.63,web,Referral
+user_509,13-10-2024,20.61,web,Referral
+user_509,09-11-2024,68.08,web,Organic Search
+user_509,23-10-2024,8.74,app,Email Campaign
+user_509,11-10-2024,55.35,web,Organic Search
+user_510,28-12-2024,84.15,web,Google Ads
+user_513,21-07-2024,53.65,app,Facebook Ads
+user_514,30-05-2024,34.55,app,Google Ads
+user_514,29-06-2024,77.38,web,Facebook Ads
+user_514,09-11-2024,49.20,web,Google Ads
+user_514,14-10-2024,41.79,app,Facebook Ads
+user_514,17-11-2024,73.54,app,Google Ads
+user_515,09-06-2024,58.40,web,Google Ads
+user_515,04-10-2024,88.05,app,Organic Search
+user_515,26-09-2024,23.83,web,Facebook Ads
+user_516,20-09-2024,11.04,web,Facebook Ads
+user_516,10-12-2024,99.70,web,Google Ads
+user_516,18-10-2024,43.54,web,Facebook Ads
+user_516,03-08-2024,30.20,web,Google Ads
+user_517,31-05-2024,38.88,web,Google Ads
+user_517,28-09-2024,74.00,web,Organic Search
+user_518,29-12-2024,92.84,web,Referral
+user_518,16-08-2024,61.29,web,Organic Search
+user_518,28-09-2024,97.19,web,Facebook Ads
+user_518,25-12-2024,45.32,app,Referral
+user_518,22-11-2024,72.07,web,Google Ads
+user_519,26-10-2024,44.08,web,Facebook Ads
+user_520,22-08-2024,8.42,web,Referral
+user_520,30-12-2024,86.18,web,Google Ads
+user_523,01-04-2024,91.24,app,Referral
+user_523,03-02-2024,12.60,web,Email Campaign
+user_524,22-12-2024,25.94,app,Organic Search
+user_526,03-10-2024,36.96,web,Google Ads
+user_526,21-09-2024,71.15,web,Facebook Ads
+user_526,01-05-2024,47.00,web,Email Campaign
+user_527,02-09-2024,77.30,app,Organic Search
+user_529,25-08-2024,43.32,web,Referral
+user_530,02-06-2024,58.21,web,Google Ads
+user_530,07-06-2024,58.40,web,Referral
+user_530,07-12-2024,12.40,app,Referral
+user_530,12-08-2024,92.93,web,Organic Search
+user_531,23-05-2024,88.01,web,Google Ads
+user_532,20-10-2024,80.10,web,Organic Search
+user_533,31-12-2024,91.36,web,Referral
+user_537,03-06-2024,67.96,web,Facebook Ads
+user_537,02-07-2024,34.04,web,Organic Search
+user_537,26-08-2024,77.88,app,Facebook Ads
+user_537,02-12-2024,11.76,web,Facebook Ads
+user_538,08-07-2024,57.19,app,Google Ads
+user_538,17-11-2024,37.11,app,Email Campaign
+user_538,21-11-2024,69.38,web,Organic Search
+user_538,01-12-2024,90.00,web,Email Campaign
+user_539,16-08-2024,23.01,app,Facebook Ads
+user_539,10-06-2024,23.81,web,Google Ads
+user_539,27-06-2024,45.75,web,Organic Search
+user_539,01-09-2024,19.23,web,Email Campaign
+user_541,25-12-2024,80.62,web,Referral
+user_541,20-10-2024,80.31,web,Referral
+user_542,13-08-2024,83.91,web,Email Campaign
+user_542,19-12-2024,88.08,web,Google Ads
+user_542,03-10-2024,87.12,web,Email Campaign
+user_543,01-12-2024,38.41,web,Referral
+user_543,01-12-2024,81.31,web,Facebook Ads
+user_543,15-12-2024,62.95,web,Google Ads
+user_544,16-11-2024,33.76,web,Google Ads
+user_544,24-12-2024,93.34,web,Referral
+user_544,01-10-2024,14.36,web,Facebook Ads
+user_545,29-11-2024,13.49,web,Email Campaign
+user_545,24-08-2024,89.44,app,Email Campaign
+user_546,13-08-2024,81.69,web,Facebook Ads
+user_546,27-12-2024,37.74,web,Referral
+user_546,24-08-2024,94.66,web,Organic Search
+user_546,19-12-2024,18.57,app,Google Ads
+user_546,06-07-2024,65.73,app,Facebook Ads
+user_547,24-10-2024,99.32,web,Google Ads
+user_547,15-08-2024,60.80,web,Referral
+user_547,18-10-2024,21.87,app,Google Ads
+user_549,19-12-2024,91.05,app,Referral
+user_549,26-10-2024,36.18,web,Referral
+user_550,06-11-2024,19.91,web,Facebook Ads
+user_550,04-08-2024,10.20,web,Email Campaign
+user_552,29-08-2024,94.42,app,Google Ads
+user_553,05-12-2024,70.39,web,Referral
+user_553,27-12-2024,34.72,web,Google Ads
+user_555,17-01-2024,36.70,web,Email Campaign
+user_556,18-02-2024,81.72,web,Google Ads
+user_556,09-06-2024,55.87,app,Organic Search
+user_556,20-10-2024,81.90,app,Facebook Ads
+user_556,12-03-2024,78.17,app,Facebook Ads
+user_556,07-06-2024,10.69,web,Referral
+user_556,30-01-2024,43.48,app,Email Campaign
+user_557,02-12-2024,90.89,web,Organic Search
+user_557,25-05-2024,20.14,app,Email Campaign
+user_557,10-12-2024,20.86,web,Facebook Ads
+user_557,26-07-2024,36.44,app,Referral
+user_557,28-11-2024,11.81,web,Google Ads
+user_559,26-06-2024,65.22,web,Google Ads
+user_559,01-05-2024,82.38,web,Referral
+user_559,05-05-2024,72.94,web,Facebook Ads
+user_559,03-09-2024,19.47,web,Google Ads
+user_559,06-07-2024,36.95,web,Organic Search
+user_559,02-08-2024,23.32,web,Facebook Ads
+user_559,15-09-2024,7.83,web,Facebook Ads
+user_560,25-09-2024,5.46,app,Referral
+user_560,24-06-2024,84.99,web,Organic Search
+user_560,26-10-2024,90.57,app,Facebook Ads
+user_560,10-06-2024,81.64,web,Facebook Ads
+user_561,27-09-2024,86.59,web,Organic Search
+user_561,17-09-2024,50.89,web,Email Campaign
+user_562,10-10-2024,21.41,web,Organic Search
+user_562,11-12-2024,63.46,web,Referral
+user_562,09-08-2024,9.60,web,Referral
+user_562,08-11-2024,8.76,web,Referral
+user_563,27-11-2024,86.88,web,Referral
+user_563,16-12-2024,10.08,web,Email Campaign
+user_563,13-04-2024,77.80,web,Email Campaign
+user_563,13-05-2024,61.33,web,Referral
+user_563,06-08-2024,58.80,app,Email Campaign
+user_563,22-11-2024,97.47,app,Google Ads
+user_563,26-10-2024,91.29,web,Email Campaign
+user_564,14-12-2024,56.37,web,Organic Search
+user_564,04-03-2024,55.48,web,Organic Search
+user_564,12-12-2024,66.00,web,Google Ads
+user_564,11-11-2024,67.74,web,Referral
+user_565,18-11-2024,20.91,web,Referral
+user_565,01-12-2024,8.69,web,Referral
+user_565,07-10-2024,93.81,app,Facebook Ads
+user_566,24-04-2024,49.72,web,Email Campaign
+user_566,18-06-2024,81.21,web,Organic Search
+user_566,04-06-2024,20.17,app,Google Ads
+user_566,30-04-2024,72.05,app,Google Ads
+user_567,18-12-2024,70.55,web,Organic Search
+user_567,23-12-2024,69.21,web,Google Ads
+user_567,18-11-2024,31.57,web,Organic Search
+user_567,17-10-2024,90.74,web,Referral
+user_568,16-05-2024,82.60,app,Google Ads
+user_570,30-12-2024,60.65,web,Referral
+user_570,28-05-2024,92.11,app,Email Campaign
+user_570,12-03-2024,68.04,app,Google Ads
+user_570,20-01-2024,66.37,web,Google Ads
+user_570,29-12-2024,74.30,web,Google Ads
+user_570,05-08-2024,51.27,app,Email Campaign
+user_570,23-04-2024,93.34,web,Facebook Ads
+user_570,01-06-2024,81.25,web,Google Ads
+user_570,20-12-2024,91.53,app,Facebook Ads
+user_571,19-10-2024,37.09,web,Facebook Ads
+user_571,02-07-2024,22.38,web,Referral
+user_571,12-05-2024,64.20,web,Facebook Ads
+user_571,21-07-2024,22.35,web,Google Ads
+user_571,31-07-2024,36.88,app,Email Campaign
+user_572,26-08-2024,54.79,web,Facebook Ads
+user_573,03-05-2024,76.82,web,Referral
+user_573,28-07-2024,61.29,app,Facebook Ads
+user_573,31-12-2024,31.17,app,Referral
+user_573,04-05-2024,99.83,app,Referral
+user_573,12-04-2024,51.17,web,Facebook Ads
+user_573,20-11-2024,44.51,app,Organic Search
+user_573,09-11-2024,70.40,web,Email Campaign
+user_573,07-05-2024,34.55,web,Facebook Ads
+user_574,02-10-2024,55.73,app,Facebook Ads
+user_574,21-11-2024,50.79,web,Google Ads
+user_574,13-06-2024,35.83,app,Facebook Ads
+user_574,16-07-2024,57.64,web,Facebook Ads
+user_574,08-12-2024,87.35,web,Google Ads
+user_578,26-09-2024,83.16,web,Referral
+user_578,20-09-2024,60.19,app,Facebook Ads
+user_579,03-08-2024,71.43,app,Organic Search
+user_580,20-09-2024,29.93,web,Email Campaign
+user_580,18-09-2024,37.90,app,Facebook Ads
+user_580,30-07-2024,96.38,web,Facebook Ads
+user_581,20-04-2024,17.80,web,Referral
+user_582,14-12-2024,51.21,web,Email Campaign
+user_583,25-12-2024,77.78,app,Facebook Ads
+user_583,07-09-2024,65.41,app,Google Ads
+user_583,29-12-2024,32.87,web,Organic Search
+user_584,10-03-2024,11.77,app,Google Ads
+user_584,31-10-2024,58.75,app,Referral
+user_584,14-12-2024,91.66,app,Email Campaign
+user_584,21-04-2024,90.03,app,Google Ads
+user_584,12-09-2024,15.45,app,Facebook Ads
+user_586,04-08-2024,39.95,web,Facebook Ads
+user_586,06-07-2024,82.85,app,Referral
+user_586,26-10-2024,71.06,app,Organic Search
+user_586,18-12-2024,86.96,web,Referral
+user_586,08-12-2024,46.82,app,Organic Search
+user_586,16-09-2024,42.52,web,Facebook Ads
+user_586,25-07-2024,47.23,web,Google Ads
+user_587,09-09-2024,75.76,web,Organic Search
+user_587,20-11-2024,38.72,web,Referral
+user_588,05-09-2024,88.13,web,Referral
+user_588,30-10-2024,99.30,web,Google Ads
+user_588,15-04-2024,88.70,web,Google Ads
+user_588,23-07-2024,86.38,app,Google Ads
+user_588,12-04-2024,85.03,app,Google Ads
+user_588,23-11-2024,66.06,web,Organic Search
+user_588,05-04-2024,67.05,web,Facebook Ads
+user_591,21-06-2024,33.27,app,Facebook Ads
+user_591,24-06-2024,46.98,app,Organic Search
+user_592,19-12-2024,97.40,web,Facebook Ads
+user_592,20-10-2024,35.47,app,Referral
+user_592,13-11-2024,43.25,web,Organic Search
+user_593,13-05-2024,75.12,web,Google Ads
+user_593,05-11-2024,10.34,web,Email Campaign
+user_593,01-06-2024,9.73,web,Google Ads
+user_593,19-08-2024,18.55,web,Google Ads
+user_593,26-10-2024,48.22,web,Organic Search
+user_594,14-11-2024,66.35,web,Email Campaign
+user_595,21-11-2024,23.73,app,Referral
+user_597,28-11-2024,19.64,app,Organic Search
+user_598,25-06-2024,14.45,web,Google Ads
+user_599,17-12-2024,43.26,web,Google Ads
+user_600,05-06-2024,78.90,app,Facebook Ads
+user_600,18-08-2024,63.80,web,Organic Search
+user_600,02-11-2024,45.26,web,Email Campaign
+user_601,16-08-2024,6.75,web,Google Ads
+user_601,04-06-2024,64.47,web,Email Campaign
+user_601,06-12-2024,25.60,web,Facebook Ads
+user_602,26-08-2024,61.73,web,Email Campaign
+user_602,21-07-2024,33.96,web,Organic Search
+user_602,05-09-2024,22.27,web,Facebook Ads
+user_602,06-09-2024,42.09,web,Organic Search
+user_603,03-12-2024,14.56,web,Facebook Ads
+user_603,08-10-2024,32.19,web,Email Campaign
+user_603,13-11-2024,7.19,app,Email Campaign
+user_606,16-11-2024,23.54,app,Facebook Ads
+user_606,25-08-2024,52.24,web,Referral
+user_606,29-07-2024,35.45,app,Google Ads
+user_606,18-10-2024,90.64,web,Google Ads
+user_608,05-06-2024,71.39,app,Facebook Ads
+user_608,31-05-2024,87.80,web,Facebook Ads
+user_608,11-06-2024,18.13,web,Email Campaign
+user_608,01-12-2024,88.38,app,Organic Search
+user_608,20-06-2024,81.71,web,Email Campaign
+user_608,26-10-2024,21.17,web,Email Campaign
+user_608,26-07-2024,85.78,web,Referral
+user_608,30-08-2024,84.12,web,Email Campaign
+user_609,08-06-2024,36.06,web,Google Ads
+user_609,16-11-2024,84.51,app,Facebook Ads
+user_609,26-07-2024,51.39,web,Facebook Ads
+user_609,12-05-2024,76.09,app,Referral
+user_610,19-12-2024,67.49,app,Facebook Ads
+user_612,05-11-2024,13.04,web,Organic Search
+user_612,09-10-2024,79.96,web,Facebook Ads
+user_613,15-10-2024,23.23,web,Referral
+user_613,28-08-2024,20.85,web,Referral
+user_613,06-04-2024,29.00,app,Organic Search
+user_613,04-04-2024,94.84,web,Referral
+user_613,28-09-2024,55.42,web,Google Ads
+user_614,24-06-2024,55.22,app,Organic Search
+user_615,24-12-2024,32.80,web,Organic Search
+user_615,11-04-2024,31.11,app,Facebook Ads
+user_615,29-03-2024,95.38,web,Google Ads
+user_617,05-06-2024,16.42,web,Google Ads
+user_618,27-11-2024,54.58,web,Google Ads
+user_618,30-07-2024,73.87,app,Facebook Ads
+user_618,08-12-2024,6.12,app,Email Campaign
+user_619,06-05-2024,91.87,app,Google Ads
+user_619,16-08-2024,62.24,web,Google Ads
+user_620,26-06-2024,35.45,app,Organic Search
+user_620,28-11-2024,58.76,web,Organic Search
+user_621,19-09-2024,40.42,web,Facebook Ads
+user_622,07-03-2024,59.80,web,Facebook Ads
+user_622,14-03-2024,98.44,web,Facebook Ads
+user_623,09-07-2024,47.75,web,Facebook Ads
+user_623,23-08-2024,29.96,web,Google Ads
+user_623,24-09-2024,16.39,web,Referral
+user_623,06-11-2024,79.01,web,Organic Search
+user_623,11-08-2024,82.17,app,Google Ads
+user_623,16-11-2024,73.05,web,Email Campaign
+user_624,16-09-2024,73.99,app,Email Campaign
+user_624,29-11-2024,35.08,web,Organic Search
+user_625,28-12-2024,93.76,web,Email Campaign
+user_625,12-10-2024,30.36,app,Organic Search
+user_625,11-08-2024,50.83,web,Facebook Ads
+user_627,15-10-2024,17.05,web,Email Campaign
+user_627,23-08-2024,90.27,web,Email Campaign
+user_627,02-11-2024,14.50,web,Referral
+user_627,16-11-2024,5.62,web,Google Ads
+user_627,17-07-2024,36.04,web,Facebook Ads
+user_628,31-10-2024,71.05,web,Email Campaign
+user_628,23-10-2024,21.85,web,Email Campaign
+user_629,17-03-2024,14.13,web,Organic Search
+user_629,25-05-2024,81.62,web,Organic Search
+user_630,18-08-2024,65.22,app,Organic Search
+user_630,12-06-2024,60.08,web,Referral
+user_630,10-07-2024,74.92,web,Facebook Ads
+user_630,20-11-2024,33.75,web,Google Ads
+user_630,30-07-2024,70.37,web,Referral
+user_631,08-12-2024,29.89,app,Facebook Ads
+user_631,11-10-2024,6.38,web,Email Campaign
+user_631,14-10-2024,93.94,app,Google Ads
+user_631,11-08-2024,84.84,web,Email Campaign
+user_632,20-11-2024,36.75,web,Organic Search
+user_634,29-07-2024,32.90,web,Email Campaign
+user_634,10-07-2024,60.24,web,Referral
+user_634,22-07-2024,45.74,web,Referral
+user_634,28-08-2024,86.30,web,Google Ads
+user_634,10-11-2024,81.06,web,Facebook Ads
+user_637,29-03-2024,29.08,app,Email Campaign
+user_637,21-09-2024,58.85,web,Google Ads
+user_637,12-09-2024,44.13,app,Email Campaign
+user_637,15-04-2024,94.69,web,Google Ads
+user_637,19-12-2024,14.03,web,Facebook Ads
+user_637,09-09-2024,24.59,app,Google Ads
+user_638,09-11-2024,70.73,web,Google Ads
+user_639,01-06-2024,85.03,web,Facebook Ads
+user_639,08-12-2024,6.30,web,Google Ads
+user_639,08-11-2024,84.47,web,Email Campaign
+user_642,28-09-2024,33.29,web,Organic Search
+user_643,01-12-2024,89.75,web,Email Campaign
+user_643,13-02-2024,41.92,web,Facebook Ads
+user_643,26-02-2024,53.70,web,Email Campaign
+user_643,03-09-2024,42.44,web,Google Ads
+user_643,13-10-2024,12.14,app,Organic Search
+user_643,19-11-2024,90.17,app,Referral
+user_643,01-03-2024,89.07,web,Organic Search
+user_644,29-06-2024,9.19,app,Google Ads
+user_644,25-09-2024,13.32,app,Organic Search
+user_645,27-09-2024,69.57,web,Google Ads
+user_645,09-02-2024,16.52,web,Referral
+user_647,10-05-2024,29.76,app,Organic Search
+user_647,21-10-2024,78.39,web,Referral
+user_647,03-09-2024,35.79,app,Google Ads
+user_647,09-03-2024,53.43,web,Facebook Ads
+user_647,19-08-2024,90.62,web,Google Ads
+user_647,12-10-2024,97.04,app,Facebook Ads
+user_648,15-11-2024,21.28,web,Organic Search
+user_648,29-12-2024,68.59,app,Organic Search
+user_648,11-12-2024,88.49,web,Referral
+user_649,17-12-2024,44.93,app,Organic Search
+user_650,05-10-2024,54.04,web,Google Ads
+user_651,30-10-2024,34.42,web,Email Campaign
+user_652,19-11-2024,84.67,web,Email Campaign
+user_652,20-09-2024,62.82,web,Facebook Ads
+user_654,22-10-2024,14.10,app,Google Ads
+user_654,07-06-2024,70.88,web,Google Ads
+user_654,22-08-2024,47.58,web,Organic Search
+user_654,11-10-2024,78.36,web,Facebook Ads
+user_655,29-12-2024,36.96,web,Google Ads
+user_658,11-04-2024,30.56,app,Organic Search
+user_658,01-02-2024,10.01,web,Facebook Ads
+user_658,13-05-2024,89.35,web,Google Ads
+user_658,22-03-2024,81.55,web,Google Ads
+user_658,05-04-2024,18.17,web,Google Ads
+user_658,17-03-2024,96.23,web,Email Campaign
+user_658,21-04-2024,42.78,web,Referral
+user_658,01-06-2024,50.66,web,Referral
+user_658,18-07-2024,46.18,web,Email Campaign
+user_659,18-06-2024,50.71,web,Google Ads
+user_659,19-12-2024,27.88,web,Google Ads
+user_659,18-06-2024,70.16,app,Facebook Ads
+user_661,18-08-2024,78.88,app,Google Ads
+user_661,18-09-2024,55.39,web,Facebook Ads
+user_661,08-10-2024,27.77,web,Referral
+user_662,27-11-2024,23.15,web,Google Ads
+user_662,25-11-2024,95.67,app,Facebook Ads
+user_664,14-11-2024,16.92,app,Facebook Ads
+user_664,19-11-2024,75.33,web,Organic Search
+user_665,14-07-2024,16.20,web,Google Ads
+user_665,21-08-2024,93.69,app,Organic Search
+user_665,10-11-2024,62.81,app,Email Campaign
+user_665,17-10-2024,69.74,web,Referral
+user_666,29-08-2024,43.39,app,Email Campaign
+user_666,21-11-2024,43.26,web,Google Ads
+user_666,09-10-2024,34.02,app,Google Ads
+user_666,05-10-2024,55.75,app,Organic Search
+user_666,19-05-2024,15.03,app,Organic Search
+user_666,05-05-2024,41.57,web,Organic Search
+user_666,29-09-2024,50.61,web,Google Ads
+user_668,23-08-2024,81.54,web,Email Campaign
+user_668,30-04-2024,66.83,web,Organic Search
+user_668,29-12-2024,67.64,app,Google Ads
+user_668,01-03-2024,23.81,web,Google Ads
+user_668,15-08-2024,5.64,web,Organic Search
+user_668,25-05-2024,99.60,web,Google Ads
+user_669,27-03-2024,93.93,web,Facebook Ads
+user_669,22-12-2024,87.97,web,Email Campaign
+user_669,06-10-2024,24.69,web,Email Campaign
+user_669,12-10-2024,58.87,web,Organic Search
+user_669,14-04-2024,93.44,web,Facebook Ads
+user_669,25-10-2024,78.25,web,Google Ads
+user_669,13-10-2024,34.01,web,Referral
+user_670,18-11-2024,41.05,web,Organic Search
+user_671,22-10-2024,28.67,web,Facebook Ads
+user_671,16-09-2024,60.26,app,Organic Search
+user_671,31-07-2024,24.28,web,Google Ads
+user_671,12-10-2024,61.09,web,Email Campaign
+user_671,01-04-2024,91.38,web,Facebook Ads
+user_671,16-09-2024,72.47,web,Facebook Ads
+user_673,14-10-2024,63.30,app,Organic Search
+user_673,29-07-2024,90.64,web,Organic Search
+user_675,17-08-2024,89.14,web,Facebook Ads
+user_675,26-08-2024,8.20,web,Email Campaign
+user_675,19-10-2024,7.39,app,Facebook Ads
+user_675,15-06-2024,17.12,app,Facebook Ads
+user_675,10-02-2024,90.27,web,Referral
+user_675,18-03-2024,79.53,web,Email Campaign
+user_676,08-08-2024,7.69,app,Facebook Ads
+user_676,30-10-2024,53.80,web,Email Campaign
+user_678,20-10-2024,86.72,app,Referral
+user_680,16-12-2024,56.64,app,Email Campaign
+user_683,22-12-2024,79.58,app,Referral
+user_683,07-07-2024,22.08,web,Email Campaign
+user_683,16-02-2024,9.28,app,Facebook Ads
+user_683,03-05-2024,46.45,app,Referral
+user_683,10-12-2024,51.52,app,Organic Search
+user_683,07-09-2024,89.75,web,Organic Search
+user_683,26-12-2024,99.97,app,Referral
+user_683,05-04-2024,48.07,web,Facebook Ads
+user_685,31-10-2024,49.54,web,Organic Search
+user_685,04-10-2024,37.37,web,Organic Search
+user_685,11-12-2024,83.82,web,Referral
+user_685,24-10-2024,36.66,web,Organic Search
+user_685,06-12-2024,77.84,app,Organic Search
+user_687,21-09-2024,85.40,web,Email Campaign
+user_687,19-12-2024,5.35,web,Referral
+user_687,14-09-2024,54.71,web,Referral
+user_688,30-10-2024,9.56,app,Organic Search
+user_689,19-12-2024,59.32,web,Facebook Ads
+user_689,28-08-2024,44.81,app,Organic Search
+user_689,14-05-2024,5.15,app,Email Campaign
+user_689,20-05-2024,9.39,web,Referral
+user_689,01-12-2024,23.22,web,Organic Search
+user_689,07-12-2024,44.32,web,Email Campaign
+user_689,23-06-2024,67.13,web,Email Campaign
+user_689,22-06-2024,70.47,web,Google Ads
+user_690,06-12-2024,15.93,web,Email Campaign
+user_690,08-07-2024,75.20,web,Google Ads
+user_691,10-09-2024,30.69,app,Organic Search
+user_692,23-11-2024,10.30,web,Organic Search
+user_693,26-12-2024,44.85,web,Organic Search
+user_697,31-10-2024,92.01,web,Email Campaign
+user_698,11-11-2024,72.70,web,Email Campaign
+user_698,12-08-2024,44.33,web,Organic Search
+user_699,04-12-2024,20.46,web,Email Campaign
+user_699,20-02-2024,45.51,web,Google Ads
+user_699,18-01-2024,42.21,web,Google Ads
+user_699,05-06-2024,6.71,web,Google Ads
+user_700,13-08-2024,35.77,web,Referral
+user_700,24-08-2024,49.72,app,Referral
+user_700,28-09-2024,67.62,web,Referral
+user_701,28-12-2024,96.16,web,Google Ads
+user_701,21-08-2024,99.32,web,Facebook Ads
+user_701,09-10-2024,32.38,web,Google Ads
+user_703,26-10-2024,41.84,web,Facebook Ads
+user_704,11-12-2024,69.37,web,Email Campaign
+user_704,25-12-2024,25.50,web,Organic Search
+user_705,20-12-2024,6.77,app,Facebook Ads
+user_705,22-07-2024,80.77,web,Organic Search
+user_705,05-11-2024,18.78,app,Email Campaign
+user_705,15-12-2024,93.11,web,Google Ads
+user_705,12-06-2024,67.26,web,Facebook Ads
+user_705,08-05-2024,19.70,web,Organic Search
+user_705,22-07-2024,51.36,web,Google Ads
+user_706,30-11-2024,53.59,web,Email Campaign
+user_707,14-06-2024,60.32,app,Facebook Ads
+user_708,02-04-2024,80.98,web,Facebook Ads
+user_708,16-10-2024,45.90,web,Facebook Ads
+user_708,02-12-2024,89.99,web,Email Campaign
+user_708,15-12-2024,81.85,app,Facebook Ads
+user_709,10-12-2024,57.58,web,Email Campaign
+user_709,28-11-2024,73.27,web,Organic Search
+user_710,19-10-2024,52.46,web,Google Ads
+user_710,12-11-2024,56.03,web,Facebook Ads
+user_711,04-11-2024,8.38,web,Facebook Ads
+user_711,18-07-2024,21.31,web,Facebook Ads
+user_712,22-02-2024,17.91,web,Facebook Ads
+user_712,03-04-2024,10.71,web,Facebook Ads
+user_712,15-02-2024,72.44,web,Email Campaign
+user_713,14-10-2024,81.77,web,Google Ads
+user_713,20-11-2024,60.62,web,Email Campaign
+user_713,27-02-2024,22.87,web,Google Ads
+user_713,28-05-2024,6.15,web,Google Ads
+user_713,18-04-2024,96.47,web,Referral
+user_713,16-12-2024,59.47,app,Facebook Ads
+user_713,14-04-2024,35.68,web,Referral
+user_714,08-10-2024,52.81,web,Email Campaign
+user_714,11-11-2024,53.08,app,Email Campaign
+user_714,12-11-2024,89.47,app,Google Ads
+user_714,13-05-2024,70.69,app,Google Ads
+user_717,29-12-2024,25.31,web,Organic Search
+user_717,12-05-2024,19.53,app,Referral
+user_718,27-05-2024,42.15,web,Email Campaign
+user_718,09-10-2024,32.32,web,Facebook Ads
+user_718,10-05-2024,54.07,web,Referral
+user_718,16-05-2024,93.50,app,Referral
+user_718,19-12-2024,95.99,app,Referral
+user_718,20-06-2024,36.12,web,Email Campaign
+user_718,15-08-2024,54.70,app,Facebook Ads
+user_719,28-11-2024,29.80,web,Email Campaign
+user_719,10-11-2024,57.84,web,Email Campaign
+user_720,12-08-2024,35.35,web,Email Campaign
+user_720,10-07-2024,47.97,web,Facebook Ads
+user_721,14-10-2024,53.38,web,Referral
+user_721,04-02-2024,43.34,web,Facebook Ads
+user_721,16-01-2024,19.99,app,Referral
+user_721,03-09-2024,37.20,web,Referral
+user_721,29-01-2024,77.95,web,Referral
+user_722,29-05-2024,85.35,web,Google Ads
+user_722,21-04-2024,72.38,web,Referral
+user_722,26-03-2024,59.82,web,Email Campaign
+user_722,12-04-2024,99.32,web,Facebook Ads
+user_722,08-10-2024,41.62,web,Google Ads
+user_723,23-12-2024,5.79,app,Email Campaign
+user_725,19-10-2024,74.58,app,Facebook Ads
+user_725,09-11-2024,67.00,web,Google Ads
+user_725,24-07-2024,7.75,web,Referral
+user_725,26-08-2024,99.48,web,Referral
+user_725,13-10-2024,53.05,app,Referral
+user_725,26-08-2024,73.74,app,Organic Search
+user_728,30-10-2024,38.84,web,Referral
+user_729,18-09-2024,61.86,web,Google Ads
+user_729,27-04-2024,55.09,web,Facebook Ads
+user_729,20-06-2024,37.16,web,Facebook Ads
+user_729,19-03-2024,64.54,web,Referral
+user_729,12-03-2024,19.04,web,Facebook Ads
+user_729,07-06-2024,12.96,web,Google Ads
+user_729,01-04-2024,83.77,web,Organic Search
+user_729,27-09-2024,86.90,app,Google Ads
+user_730,08-09-2024,61.28,app,Referral
+user_730,01-11-2024,26.61,web,Facebook Ads
+user_730,10-12-2024,13.36,app,Google Ads
+user_730,17-07-2024,76.80,app,Google Ads
+user_730,05-07-2024,81.96,web,Organic Search
+user_730,07-09-2024,83.41,app,Facebook Ads
+user_730,05-09-2024,31.41,web,Facebook Ads
+user_731,20-08-2024,7.53,web,Facebook Ads
+user_731,28-06-2024,54.35,web,Facebook Ads
+user_731,10-09-2024,67.84,web,Organic Search
+user_732,14-10-2024,62.73,web,Email Campaign
+user_733,30-12-2024,66.16,web,Organic Search
+user_734,07-10-2024,57.58,web,Referral
+user_734,11-10-2024,84.39,web,Email Campaign
+user_734,27-09-2024,37.34,web,Referral
+user_734,11-11-2024,97.88,web,Facebook Ads
+user_734,12-10-2024,28.83,web,Facebook Ads
+user_734,03-10-2024,37.35,web,Referral
+user_736,10-07-2024,82.23,web,Facebook Ads
+user_736,24-08-2024,80.51,web,Referral
+user_736,26-09-2024,14.62,app,Facebook Ads
+user_736,17-12-2024,39.97,web,Facebook Ads
+user_737,27-09-2024,58.23,web,Facebook Ads
+user_737,18-09-2024,42.22,web,Email Campaign
+user_737,04-02-2024,98.54,web,Email Campaign
+user_737,29-10-2024,45.36,web,Google Ads
+user_738,30-11-2024,54.16,web,Facebook Ads
+user_738,08-12-2024,93.12,web,Organic Search
+user_739,12-10-2024,32.80,web,Organic Search
+user_739,07-08-2024,82.12,app,Facebook Ads
+user_739,03-11-2024,93.38,web,Facebook Ads
+user_739,27-11-2024,15.15,web,Facebook Ads
+user_740,12-12-2024,37.11,web,Facebook Ads
+user_741,01-05-2024,81.23,web,Referral
+user_741,19-09-2024,14.70,web,Email Campaign
+user_741,20-08-2024,32.45,web,Referral
+user_741,05-10-2024,59.76,app,Organic Search
+user_741,10-10-2024,73.04,web,Facebook Ads
+user_743,21-06-2024,43.20,web,Referral
+user_743,29-12-2024,49.45,web,Email Campaign
+user_745,19-09-2024,28.24,app,Referral
+user_745,10-07-2024,78.78,web,Facebook Ads
+user_745,24-08-2024,35.68,web,Facebook Ads
+user_745,23-04-2024,55.72,web,Facebook Ads
+user_745,15-03-2024,74.72,web,Google Ads
+user_745,09-10-2024,43.87,web,Google Ads
+user_745,16-10-2024,65.26,app,Referral
+user_746,05-12-2024,43.17,app,Facebook Ads
+user_746,12-09-2024,25.80,web,Facebook Ads
+user_749,06-06-2024,8.03,web,Email Campaign
+user_749,02-06-2024,23.99,web,Organic Search
+user_749,26-09-2024,5.81,web,Google Ads
+user_750,27-12-2024,68.83,web,Organic Search
+user_750,14-06-2024,5.01,app,Google Ads
+user_750,18-07-2024,49.63,web,Facebook Ads
+user_750,05-10-2024,24.57,app,Referral
+user_750,24-11-2024,69.46,web,Referral
+user_751,12-11-2024,93.62,web,Facebook Ads
+user_751,26-06-2024,70.26,app,Referral
+user_751,30-04-2024,94.49,web,Organic Search
+user_751,10-08-2024,35.22,web,Email Campaign
+user_751,27-10-2024,55.61,web,Email Campaign
+user_752,23-11-2024,52.64,web,Referral
+user_753,26-03-2024,93.15,web,Facebook Ads
+user_753,18-04-2024,19.64,web,Referral
+user_753,05-06-2024,70.55,web,Email Campaign
+user_754,21-03-2024,71.87,web,Facebook Ads
+user_754,11-07-2024,51.47,web,Email Campaign
+user_754,17-02-2024,34.23,web,Referral
+user_754,08-11-2024,28.61,web,Organic Search
+user_754,03-05-2024,28.01,web,Google Ads
+user_755,16-08-2024,46.29,web,Google Ads
+user_755,07-12-2024,79.70,web,Email Campaign
+user_755,15-08-2024,25.86,web,Email Campaign
+user_755,26-09-2024,36.94,web,Google Ads
+user_756,28-12-2024,83.41,app,Facebook Ads
+user_757,16-02-2024,49.40,web,Facebook Ads
+user_757,27-08-2024,97.06,web,Google Ads
+user_757,06-10-2024,47.26,web,Email Campaign
+user_757,24-11-2024,81.13,app,Referral
+user_758,12-07-2024,29.57,web,Email Campaign
+user_759,20-10-2024,42.74,web,Email Campaign
+user_761,06-07-2024,66.61,app,Facebook Ads
+user_761,27-09-2024,89.04,web,Facebook Ads
+user_761,24-10-2024,94.52,app,Facebook Ads
+user_761,17-11-2024,90.94,web,Google Ads
+user_762,10-12-2024,61.07,web,Organic Search
+user_762,25-12-2024,70.92,app,Google Ads
+user_762,24-12-2024,10.54,app,Referral
+user_762,22-12-2024,35.84,web,Organic Search
+user_762,27-11-2024,88.26,web,Referral
+user_762,07-10-2024,79.87,app,Referral
+user_763,14-10-2024,44.83,web,Referral
+user_763,18-11-2024,52.99,web,Email Campaign
+user_764,27-07-2024,9.76,app,Facebook Ads
+user_764,28-07-2024,67.12,app,Email Campaign
+user_764,03-08-2024,21.93,app,Google Ads
+user_764,31-12-2024,55.81,app,Organic Search
+user_764,31-10-2024,37.22,web,Email Campaign
+user_765,01-10-2024,65.21,web,Organic Search
+user_765,06-07-2024,51.39,web,Facebook Ads
+user_765,01-10-2024,84.94,web,Facebook Ads
+user_765,05-11-2024,33.22,web,Referral
+user_766,08-03-2024,15.49,web,Email Campaign
+user_766,14-10-2024,61.83,web,Email Campaign
+user_766,11-12-2024,92.81,web,Google Ads
+user_766,14-10-2024,95.16,app,Organic Search
+user_766,19-08-2024,85.20,web,Facebook Ads
+user_766,16-08-2024,92.84,web,Google Ads
+user_768,21-07-2024,9.23,app,Facebook Ads
+user_770,07-11-2024,68.95,app,Organic Search
+user_770,28-11-2024,99.07,web,Facebook Ads
+user_770,14-10-2024,74.89,web,Referral
+user_770,17-09-2024,72.98,app,Email Campaign
+user_770,01-10-2024,35.10,app,Google Ads
+user_770,24-12-2024,82.44,app,Organic Search
+user_773,23-12-2024,52.81,web,Referral
+user_774,02-11-2024,21.09,app,Email Campaign
+user_774,10-12-2024,95.82,web,Email Campaign
+user_774,15-11-2024,95.30,app,Google Ads
+user_775,21-05-2024,32.38,web,Organic Search
+user_775,02-06-2024,18.48,web,Google Ads
+user_775,12-10-2024,25.78,web,Email Campaign
+user_775,11-07-2024,35.62,web,Organic Search
+user_775,09-05-2024,39.52,web,Referral
+user_775,20-08-2024,21.38,web,Facebook Ads
+user_776,06-11-2024,19.79,web,Organic Search
+user_776,11-12-2024,46.88,web,Google Ads
+user_776,26-12-2024,61.35,web,Referral
+user_776,16-08-2024,20.14,web,Email Campaign
+user_776,28-09-2024,44.56,web,Referral
+user_776,18-12-2024,14.31,app,Organic Search
+user_776,21-07-2024,34.45,app,Email Campaign
+user_777,17-07-2024,71.22,web,Referral
+user_778,02-11-2024,67.82,app,Facebook Ads
+user_778,21-11-2024,51.51,web,Google Ads
+user_778,17-06-2024,19.81,web,Referral
+user_778,03-11-2024,72.74,web,Facebook Ads
+user_779,03-09-2024,31.05,web,Google Ads
+user_779,21-12-2024,17.72,app,Referral
+user_779,29-09-2024,53.52,web,Email Campaign
+user_782,26-12-2024,6.82,app,Email Campaign
+user_783,31-12-2024,7.15,web,Facebook Ads
+user_783,08-03-2024,71.47,web,Referral
+user_783,15-06-2024,97.33,app,Email Campaign
+user_783,01-05-2024,32.60,web,Referral
+user_783,02-12-2024,31.48,web,Google Ads
+user_783,13-03-2024,41.77,web,Organic Search
+user_787,07-11-2024,35.56,web,Facebook Ads
+user_787,13-06-2024,44.55,app,Email Campaign
+user_787,05-10-2024,35.21,web,Google Ads
+user_787,01-04-2024,28.68,web,Email Campaign
+user_787,22-10-2024,58.46,app,Referral
+user_787,06-11-2024,65.96,app,Email Campaign
+user_787,29-03-2024,29.23,web,Google Ads
+user_787,19-08-2024,34.02,app,Email Campaign
+user_790,04-09-2024,60.10,app,Organic Search
+user_790,31-03-2024,50.27,web,Email Campaign
+user_790,22-12-2024,12.09,app,Referral
+user_790,02-02-2024,96.42,web,Organic Search
+user_790,19-04-2024,31.11,web,Organic Search
+user_790,21-11-2024,77.88,web,Organic Search
+user_791,05-10-2024,72.99,app,Email Campaign
+user_791,31-10-2024,21.40,web,Google Ads
+user_791,21-06-2024,52.50,web,Google Ads
+user_792,22-12-2024,26.51,web,Email Campaign
+user_795,03-12-2024,22.69,web,Referral
+user_795,10-11-2024,84.99,web,Email Campaign
+user_795,25-11-2024,74.03,web,Google Ads
+user_796,26-12-2024,48.46,web,Email Campaign
+user_796,15-08-2024,70.36,app,Email Campaign
+user_796,23-08-2024,84.93,web,Facebook Ads
+user_796,20-09-2024,79.06,web,Referral
+user_796,20-12-2024,99.21,web,Google Ads
+user_796,25-08-2024,5.18,app,Google Ads
+user_797,03-12-2024,65.24,app,Referral
+user_801,10-05-2024,8.14,web,Google Ads
+user_801,28-08-2024,77.48,web,Email Campaign
+user_801,13-05-2024,72.64,app,Referral
+user_802,18-11-2024,17.90,web,Google Ads
+user_803,01-10-2024,98.71,web,Referral
+user_803,02-10-2024,8.05,web,Facebook Ads
+user_804,11-10-2024,61.62,web,Referral
+user_804,19-10-2024,65.46,app,Organic Search
+user_805,07-07-2024,42.81,web,Facebook Ads
+user_805,13-03-2024,28.67,app,Email Campaign
+user_805,02-05-2024,92.06,web,Email Campaign
+user_805,03-12-2024,79.98,web,Organic Search
+user_806,16-06-2024,15.96,web,Google Ads
+user_806,20-08-2024,64.18,web,Referral
+user_806,24-06-2024,90.88,web,Referral
+user_807,01-04-2024,95.21,app,Facebook Ads
+user_807,20-06-2024,36.55,web,Email Campaign
+user_807,02-11-2024,81.57,web,Google Ads
+user_807,22-03-2024,45.64,web,Email Campaign
+user_807,06-12-2024,78.00,web,Google Ads
+user_807,07-05-2024,60.08,web,Referral
+user_807,16-09-2024,10.53,web,Google Ads
+user_808,16-12-2024,45.17,web,Email Campaign
+user_808,29-09-2024,40.14,web,Email Campaign
+user_808,29-09-2024,80.44,app,Email Campaign
+user_809,04-11-2024,86.91,app,Google Ads
+user_809,22-12-2024,58.05,app,Organic Search
+user_809,03-12-2024,5.02,web,Referral
+user_809,02-12-2024,6.74,web,Organic Search
+user_810,08-04-2024,95.04,web,Facebook Ads
+user_811,06-10-2024,54.58,web,Organic Search
+user_811,04-12-2024,60.00,web,Google Ads
+user_811,01-06-2024,78.76,web,Google Ads
+user_811,29-09-2024,98.25,app,Referral
+user_812,03-09-2024,63.89,web,Email Campaign
+user_812,21-10-2024,94.17,web,Referral
+user_812,26-09-2024,17.81,app,Facebook Ads
+user_813,23-11-2024,28.87,web,Referral
+user_813,30-04-2024,75.47,app,Email Campaign
+user_813,08-12-2024,27.23,web,Google Ads
+user_814,22-12-2024,58.72,app,Facebook Ads
+user_815,01-09-2024,76.26,app,Facebook Ads
+user_815,18-02-2024,42.03,web,Organic Search
+user_817,03-12-2024,35.86,web,Google Ads
+user_817,15-11-2024,49.76,app,Referral
+user_817,07-07-2024,90.26,app,Email Campaign
+user_817,29-12-2024,25.63,web,Referral
+user_818,19-02-2024,76.36,app,Google Ads
+user_818,17-05-2024,66.17,app,Google Ads
+user_819,07-09-2024,5.66,web,Email Campaign
+user_819,28-08-2024,29.72,web,Referral
+user_821,29-12-2024,67.63,web,Organic Search
+user_821,25-06-2024,32.69,web,Email Campaign
+user_824,14-09-2024,66.06,app,Email Campaign
+user_824,04-08-2024,90.86,web,Referral
+user_824,23-11-2024,37.40,web,Facebook Ads
+user_824,02-07-2024,8.59,web,Organic Search
+user_824,01-09-2024,48.01,web,Referral
+user_824,02-11-2024,75.58,app,Organic Search
+user_824,21-07-2024,23.26,web,Referral
+user_827,04-12-2024,52.22,web,Google Ads
+user_827,19-12-2024,20.33,web,Google Ads
+user_829,17-05-2024,63.67,app,Google Ads
+user_829,31-10-2024,71.79,web,Referral
+user_830,23-09-2024,35.36,web,Google Ads
+user_830,07-09-2024,32.06,web,Google Ads
+user_830,30-06-2024,28.99,web,Organic Search
+user_830,10-05-2024,99.09,web,Organic Search
+user_830,08-12-2024,83.01,web,Google Ads
+user_830,11-05-2024,46.31,web,Google Ads
+user_833,25-05-2024,86.51,web,Facebook Ads
+user_833,16-11-2024,27.82,web,Referral
+user_834,08-04-2024,44.62,web,Organic Search
+user_834,28-09-2024,84.22,web,Facebook Ads
+user_834,29-07-2024,44.10,web,Google Ads
+user_834,02-05-2024,43.44,web,Google Ads
+user_834,22-11-2024,18.29,web,Organic Search
+user_834,26-03-2024,77.45,web,Facebook Ads
+user_834,04-07-2024,44.04,web,Google Ads
+user_834,24-07-2024,89.65,web,Organic Search
+user_835,22-03-2024,6.28,web,Email Campaign
+user_835,10-07-2024,7.06,web,Facebook Ads
+user_835,23-02-2024,13.15,web,Referral
+user_836,26-08-2024,24.14,web,Organic Search
+user_836,01-07-2024,25.12,app,Email Campaign
+user_836,23-11-2024,24.49,app,Email Campaign
+user_836,12-05-2024,36.47,web,Facebook Ads
+user_837,07-10-2024,34.93,web,Facebook Ads
+user_837,22-08-2024,69.50,app,Email Campaign
+user_837,24-11-2024,87.46,web,Facebook Ads
+user_838,07-09-2024,86.75,web,Referral
+user_839,12-11-2024,6.61,web,Facebook Ads
+user_840,31-10-2024,17.33,app,Organic Search
+user_840,07-06-2024,84.71,app,Email Campaign
+user_841,03-11-2024,6.12,web,Organic Search
+user_843,29-02-2024,94.52,app,Organic Search
+user_843,07-09-2024,49.75,web,Facebook Ads
+user_843,18-04-2024,41.50,web,Email Campaign
+user_843,27-05-2024,52.19,web,Organic Search
+user_843,10-05-2024,9.61,web,Referral
+user_843,11-09-2024,43.90,web,Google Ads
+user_843,10-02-2024,83.75,web,Google Ads
+user_844,12-12-2024,95.77,web,Organic Search
+user_845,03-03-2024,19.66,web,Organic Search
+user_845,10-11-2024,31.53,web,Facebook Ads
+user_845,22-12-2024,72.78,web,Organic Search
+user_845,17-02-2024,34.40,app,Google Ads
+user_845,04-09-2024,23.32,web,Organic Search
+user_845,10-11-2024,50.40,web,Google Ads
+user_847,08-10-2024,27.11,web,Email Campaign
+user_847,22-08-2024,72.65,web,Facebook Ads
+user_847,18-07-2024,18.96,app,Referral
+user_847,21-06-2024,32.25,web,Facebook Ads
+user_847,01-07-2024,97.01,web,Referral
+user_848,22-04-2024,51.37,app,Facebook Ads
+user_849,03-09-2024,32.04,app,Google Ads
+user_849,04-08-2024,11.87,app,Facebook Ads
+user_850,05-12-2024,41.12,app,Referral
+user_851,02-08-2024,97.21,web,Referral
+user_851,18-06-2024,65.13,web,Referral
+user_851,03-10-2024,80.57,web,Organic Search
+user_851,12-05-2024,29.15,app,Email Campaign
+user_851,17-05-2024,23.44,web,Email Campaign
+user_852,24-12-2024,89.86,app,Google Ads
+user_852,01-12-2024,56.81,web,Facebook Ads
+user_852,21-12-2024,43.00,web,Google Ads
+user_852,12-08-2024,31.48,web,Organic Search
+user_854,25-05-2024,61.11,web,Google Ads
+user_854,15-07-2024,58.48,app,Google Ads
+user_855,24-12-2024,57.61,web,Referral
+user_857,19-09-2024,85.46,web,Referral
+user_857,08-12-2024,12.88,web,Organic Search
+user_858,12-11-2024,37.72,web,Organic Search
+user_858,30-04-2024,37.65,web,Organic Search
+user_858,24-05-2024,94.78,web,Facebook Ads
+user_858,06-02-2024,95.49,app,Google Ads
+user_858,17-10-2024,82.37,web,Email Campaign
+user_858,30-11-2024,40.18,web,Google Ads
+user_859,01-08-2024,6.60,web,Organic Search
+user_859,08-09-2024,22.02,web,Organic Search
+user_859,09-07-2024,64.20,app,Google Ads
+user_861,28-10-2024,76.04,web,Organic Search
+user_861,11-08-2024,9.70,app,Facebook Ads
+user_861,20-11-2024,82.38,web,Facebook Ads
+user_862,20-12-2024,18.08,web,Facebook Ads
+user_862,04-11-2024,61.06,web,Organic Search
+user_864,25-04-2024,77.82,app,Email Campaign
+user_864,20-09-2024,11.38,web,Google Ads
+user_864,22-03-2024,20.88,web,Google Ads
+user_864,30-04-2024,35.62,web,Referral
+user_864,16-08-2024,72.06,web,Organic Search
+user_864,03-04-2024,13.51,web,Facebook Ads
+user_865,19-07-2024,72.84,app,Email Campaign
+user_865,05-09-2024,77.09,app,Referral
+user_866,13-06-2024,5.30,app,Email Campaign
+user_866,01-12-2024,14.93,web,Referral
+user_866,12-05-2024,77.89,app,Organic Search
+user_866,01-10-2024,95.54,app,Organic Search
+user_866,26-11-2024,46.36,web,Organic Search
+user_867,11-11-2024,6.90,web,Facebook Ads
+user_867,22-06-2024,5.84,web,Email Campaign
+user_867,07-03-2024,71.99,app,Email Campaign
+user_867,30-10-2024,61.08,web,Organic Search
+user_867,15-11-2024,23.24,web,Organic Search
+user_867,25-05-2024,67.02,app,Referral
+user_867,26-02-2024,43.93,app,Google Ads
+user_868,05-04-2024,50.33,web,Email Campaign
+user_868,29-03-2024,26.37,app,Referral
+user_870,03-10-2024,50.02,web,Facebook Ads
+user_871,08-05-2024,44.65,app,Email Campaign
+user_871,03-04-2024,29.36,app,Email Campaign
+user_872,30-07-2024,88.06,web,Google Ads
+user_872,18-09-2024,32.62,web,Referral
+user_873,01-12-2024,51.43,web,Email Campaign
+user_873,14-10-2024,39.99,web,Referral
+user_874,29-03-2024,59.33,app,Google Ads
+user_874,08-07-2024,55.21,web,Google Ads
+user_874,11-07-2024,48.59,app,Organic Search
+user_874,31-07-2024,83.56,app,Referral
+user_874,05-06-2024,93.78,web,Facebook Ads
+user_874,10-03-2024,47.38,web,Facebook Ads
+user_874,25-02-2024,74.37,web,Email Campaign
+user_875,02-09-2024,29.61,web,Google Ads
+user_875,06-04-2024,74.13,web,Organic Search
+user_875,28-11-2024,46.53,app,Referral
+user_875,31-12-2024,32.10,web,Organic Search
+user_875,06-11-2024,46.75,web,Google Ads
+user_875,03-08-2024,34.31,app,Referral
+user_876,25-07-2024,82.06,app,Referral
+user_877,07-08-2024,22.51,web,Google Ads
+user_877,20-08-2024,98.29,web,Email Campaign
+user_877,28-12-2024,64.51,web,Google Ads
+user_878,12-12-2024,32.09,web,Facebook Ads
+user_878,22-11-2024,26.95,web,Facebook Ads
+user_878,27-03-2024,70.91,web,Referral
+user_878,26-04-2024,54.82,app,Google Ads
+user_878,08-08-2024,85.97,app,Organic Search
+user_878,11-12-2024,78.73,web,Organic Search
+user_879,25-06-2024,20.71,app,Facebook Ads
+user_881,23-10-2024,62.59,web,Email Campaign
+user_881,30-09-2024,37.21,app,Email Campaign
+user_881,24-12-2024,75.28,web,Referral
+user_881,01-12-2024,60.82,web,Facebook Ads
+user_882,03-12-2024,25.32,web,Email Campaign
+user_882,15-09-2024,80.45,web,Facebook Ads
+user_882,29-10-2024,50.77,web,Organic Search
+user_883,21-05-2024,73.03,web,Google Ads
+user_883,23-05-2024,40.80,app,Google Ads
+user_883,23-11-2024,23.64,web,Referral
+user_883,09-12-2024,14.21,web,Organic Search
+user_883,08-08-2024,61.54,web,Referral
+user_883,21-11-2024,40.38,app,Facebook Ads
+user_883,03-08-2024,35.52,web,Organic Search
+user_884,24-10-2024,89.52,app,Referral
+user_884,03-11-2024,51.93,web,Referral
+user_884,09-08-2024,17.21,web,Google Ads
+user_884,17-09-2024,22.50,web,Organic Search
+user_885,21-10-2024,29.27,web,Google Ads
+user_885,28-08-2024,58.86,web,Referral
+user_885,25-11-2024,86.19,web,Facebook Ads
+user_885,30-08-2024,32.70,web,Referral
+user_885,22-03-2024,60.80,app,Facebook Ads
+user_886,20-07-2024,64.46,app,Email Campaign
+user_887,27-05-2024,82.34,web,Facebook Ads
+user_887,08-05-2024,16.02,web,Facebook Ads
+user_887,17-11-2024,8.68,app,Facebook Ads
+user_888,07-12-2024,31.68,app,Email Campaign
+user_888,16-10-2024,84.19,web,Referral
+user_889,19-04-2024,57.80,web,Referral
+user_889,07-07-2024,76.81,web,Google Ads
+user_889,23-03-2024,74.50,web,Email Campaign
+user_892,10-12-2024,34.68,web,Google Ads
+user_893,21-10-2024,52.00,web,Google Ads
+user_893,13-10-2024,66.52,app,Email Campaign
+user_893,10-07-2024,66.88,web,Facebook Ads
+user_893,20-10-2024,12.29,web,Referral
+user_893,16-08-2024,66.09,web,Facebook Ads
+user_894,22-09-2024,50.70,web,Facebook Ads
+user_894,05-03-2024,92.70,app,Organic Search
+user_895,02-06-2024,33.19,web,Email Campaign
+user_895,15-04-2024,10.33,web,Facebook Ads
+user_895,14-05-2024,6.93,web,Google Ads
+user_896,06-12-2024,10.52,app,Organic Search
+user_896,26-12-2024,21.29,app,Google Ads
+user_897,13-12-2024,42.50,app,Facebook Ads
+user_898,13-12-2024,73.56,web,Google Ads
+user_898,05-07-2024,44.10,web,Referral
+user_899,05-11-2024,43.02,web,Referral
+user_900,24-11-2024,11.67,web,Referral
+user_900,12-11-2024,87.69,web,Organic Search
+user_900,04-12-2024,54.20,app,Organic Search
+user_900,05-10-2024,92.16,web,Organic Search
+user_900,13-07-2024,26.12,web,Facebook Ads
+user_900,23-06-2024,87.62,web,Facebook Ads
+user_900,08-08-2024,13.75,web,Facebook Ads
+user_901,20-10-2024,93.47,web,Facebook Ads
+user_903,14-05-2024,13.88,app,Referral
+user_907,23-07-2024,41.71,web,Google Ads
+user_907,27-02-2024,76.20,web,Email Campaign
+user_907,06-09-2024,17.55,web,Referral
+user_907,14-02-2024,40.37,web,Google Ads
+user_907,26-09-2024,73.46,web,Facebook Ads
+user_908,23-07-2024,36.80,web,Organic Search
+user_908,21-09-2024,30.43,app,Organic Search
+user_912,07-10-2024,49.67,app,Organic Search
+user_912,24-09-2024,66.43,app,Google Ads
+user_913,04-10-2024,6.05,web,Referral
+user_914,03-05-2024,39.41,app,Email Campaign
+user_914,12-03-2024,65.24,web,Facebook Ads
+user_914,23-12-2024,54.35,web,Google Ads
+user_914,24-05-2024,59.10,app,Referral
+user_916,27-05-2024,47.55,app,Facebook Ads
+user_916,07-05-2024,75.53,app,Referral
+user_916,25-11-2024,29.32,web,Facebook Ads
+user_916,07-06-2024,77.87,app,Google Ads
+user_916,11-04-2024,78.29,web,Google Ads
+user_917,02-10-2024,6.35,app,Google Ads
+user_917,09-09-2024,20.39,app,Facebook Ads
+user_919,04-12-2024,60.05,app,Organic Search
+user_919,30-12-2024,36.26,web,Google Ads
+user_920,24-06-2024,73.21,app,Facebook Ads
+user_920,10-12-2024,61.35,web,Organic Search
+user_921,09-12-2024,7.92,app,Google Ads
+user_921,30-05-2024,35.95,web,Facebook Ads
+user_921,16-08-2024,70.14,app,Referral
+user_922,31-08-2024,84.35,web,Facebook Ads
+user_922,08-08-2024,94.41,web,Email Campaign
+user_924,15-08-2024,78.78,web,Referral
+user_924,15-02-2024,99.81,web,Facebook Ads
+user_924,10-07-2024,31.13,app,Email Campaign
+user_924,22-05-2024,46.06,web,Organic Search
+user_924,29-10-2024,45.58,web,Referral
+user_925,03-11-2024,33.19,app,Email Campaign
+user_925,23-07-2024,46.81,app,Google Ads
+user_925,11-10-2024,84.29,web,Organic Search
+user_925,19-10-2024,48.83,web,Facebook Ads
+user_925,30-06-2024,31.55,web,Email Campaign
+user_925,09-07-2024,21.25,web,Organic Search
+user_925,15-09-2024,78.46,web,Email Campaign
+user_925,31-08-2024,37.92,web,Organic Search
+user_926,01-09-2024,39.77,app,Email Campaign
+user_926,30-09-2024,30.94,web,Referral
+user_927,19-12-2024,69.05,web,Email Campaign
+user_928,17-10-2024,46.45,web,Referral
+user_928,09-09-2024,77.33,web,Organic Search
+user_928,07-12-2024,5.78,app,Facebook Ads
+user_928,30-10-2024,94.99,web,Referral
+user_929,20-07-2024,35.20,web,Organic Search
+user_929,26-10-2024,29.13,web,Google Ads
+user_929,10-10-2024,68.11,web,Referral
+user_929,29-06-2024,8.70,app,Organic Search
+user_930,16-05-2024,18.52,app,Email Campaign
+user_930,23-06-2024,15.28,web,Facebook Ads
+user_930,10-07-2024,84.64,app,Referral
+user_933,03-04-2024,11.49,app,Google Ads
+user_933,07-05-2024,89.22,app,Google Ads
+user_933,20-06-2024,58.75,web,Organic Search
+user_935,12-12-2024,87.80,web,Google Ads
+user_935,26-12-2024,85.04,web,Email Campaign
+user_936,31-10-2024,15.50,app,Facebook Ads
+user_936,02-12-2024,39.28,web,Organic Search
+user_938,22-12-2024,92.56,app,Facebook Ads
+user_939,19-10-2024,30.90,web,Organic Search
+user_939,25-09-2024,87.50,web,Organic Search
+user_941,19-04-2024,38.23,web,Google Ads
+user_941,06-11-2024,99.04,web,Organic Search
+user_941,31-12-2024,21.13,web,Email Campaign
+user_942,22-09-2024,17.04,app,Referral
+user_942,10-05-2024,88.90,app,Facebook Ads
+user_942,09-07-2024,45.01,app,Email Campaign
+user_942,26-07-2024,23.23,web,Google Ads
+user_942,01-02-2024,16.36,web,Google Ads
+user_942,02-08-2024,44.51,web,Google Ads
+user_944,24-10-2024,94.48,web,Facebook Ads
+user_944,20-10-2024,39.68,web,Referral
+user_944,16-09-2024,5.74,web,Referral
+user_944,12-05-2024,64.60,app,Facebook Ads
+user_944,01-05-2024,82.66,web,Facebook Ads
+user_945,09-04-2024,33.14,web,Facebook Ads
+user_945,15-03-2024,47.17,web,Organic Search
+user_945,22-08-2024,44.39,web,Email Campaign
+user_946,11-11-2024,31.37,web,Referral
+user_947,15-09-2024,45.25,web,Facebook Ads
+user_947,23-05-2024,87.59,web,Referral
+user_947,15-09-2024,64.58,web,Facebook Ads
+user_947,10-06-2024,8.05,web,Facebook Ads
+user_947,26-05-2024,85.61,web,Referral
+user_947,13-10-2024,99.86,web,Email Campaign
+user_947,30-12-2024,22.35,web,Referral
+user_947,17-06-2024,59.63,web,Referral
+user_950,11-05-2024,17.98,web,Email Campaign
+user_950,22-11-2024,42.87,web,Email Campaign
+user_952,29-11-2024,15.38,app,Facebook Ads
+user_953,13-07-2024,86.21,web,Referral
+user_953,20-04-2024,64.63,web,Referral
+user_953,12-10-2024,72.39,app,Referral
+user_953,28-10-2024,53.19,app,Facebook Ads
+user_953,12-07-2024,39.95,web,Organic Search
+user_953,03-07-2024,59.77,app,Google Ads
+user_953,21-06-2024,14.05,web,Email Campaign
+user_955,14-12-2024,56.94,app,Facebook Ads
+user_956,05-12-2024,94.78,web,Google Ads
+user_957,28-10-2024,73.79,app,Google Ads
+user_957,13-05-2024,26.16,web,Referral
+user_957,09-07-2024,35.10,web,Google Ads
+user_957,22-09-2024,16.67,web,Referral
+user_957,09-06-2024,5.37,web,Email Campaign
+user_958,03-09-2024,8.49,app,Facebook Ads
+user_958,16-09-2024,34.03,web,Facebook Ads
+user_958,25-08-2024,7.21,web,Email Campaign
+user_959,22-07-2024,86.99,web,Email Campaign
+user_959,17-10-2024,36.94,web,Referral
+user_960,10-11-2024,71.57,web,Email Campaign
+user_960,30-03-2024,17.28,web,Organic Search
+user_960,23-08-2024,71.81,app,Google Ads
+user_961,23-11-2024,17.21,web,Organic Search
+user_961,23-11-2024,79.65,web,Facebook Ads
+user_962,18-07-2024,31.04,web,Facebook Ads
+user_962,25-03-2024,11.78,app,Google Ads
+user_962,21-07-2024,47.75,web,Facebook Ads
+user_962,12-10-2024,18.78,web,Email Campaign
+user_962,28-11-2024,77.97,app,Google Ads
+user_962,11-03-2024,83.13,web,Organic Search
+user_962,03-10-2024,30.61,web,Facebook Ads
+user_963,30-12-2024,82.41,web,Email Campaign
+user_963,25-11-2024,95.36,app,Email Campaign
+user_963,27-10-2024,10.16,web,Organic Search
+user_965,16-09-2024,70.37,web,Google Ads
+user_965,12-09-2024,18.73,web,Google Ads
+user_965,16-08-2024,44.52,web,Organic Search
+user_967,31-07-2024,20.60,web,Google Ads
+user_967,20-06-2024,31.81,app,Facebook Ads
+user_967,16-09-2024,74.28,web,Referral
+user_967,04-05-2024,59.22,app,Facebook Ads
+user_967,17-04-2024,29.81,web,Organic Search
+user_967,23-08-2024,22.07,app,Email Campaign
+user_968,18-09-2024,57.91,web,Facebook Ads
+user_968,31-08-2024,99.69,web,Facebook Ads
+user_970,27-10-2024,66.95,web,Email Campaign
+user_970,23-10-2024,77.97,web,Facebook Ads
+user_970,14-10-2024,59.35,web,Email Campaign
+user_970,05-11-2024,30.12,web,Referral
+user_971,20-10-2024,81.50,web,Referral
+user_971,24-10-2024,72.84,web,Organic Search
+user_972,24-12-2024,5.53,web,Google Ads
+user_975,09-12-2024,15.62,web,Organic Search
+user_975,05-08-2024,65.23,web,Referral
+user_975,07-08-2024,5.97,web,Email Campaign
+user_977,16-07-2024,33.13,web,Referral
+user_977,23-09-2024,72.66,web,Referral
+user_980,21-09-2024,47.71,app,Organic Search
+user_980,24-06-2024,68.95,app,Google Ads
+user_982,22-09-2024,99.51,web,Organic Search
+user_982,30-08-2024,96.72,app,Referral
+user_982,18-12-2024,27.85,web,Google Ads
+user_982,27-11-2024,76.88,web,Referral
+user_983,26-05-2024,80.04,app,Email Campaign
+user_983,03-12-2024,37.27,app,Facebook Ads
+user_983,05-03-2024,81.11,app,Facebook Ads
+user_983,20-07-2024,75.27,app,Email Campaign
+user_983,21-12-2024,85.15,web,Facebook Ads
+user_983,28-06-2024,89.24,web,Organic Search
+user_984,27-05-2024,34.85,app,Email Campaign
+user_984,12-07-2024,58.53,web,Referral
+user_984,24-03-2024,30.94,web,Google Ads
+user_985,20-06-2024,60.54,app,Organic Search
+user_985,17-10-2024,79.63,app,Email Campaign
+user_985,01-03-2024,73.06,web,Google Ads
+user_985,29-03-2024,64.32,app,Referral
+user_985,07-06-2024,65.32,app,Facebook Ads
+user_985,18-07-2024,25.59,web,Organic Search
+user_985,09-02-2024,15.55,web,Referral
+user_987,05-10-2024,11.11,app,Email Campaign
+user_987,01-10-2024,48.75,web,Organic Search
+user_987,15-12-2024,16.55,web,Facebook Ads
+user_987,11-11-2024,69.71,web,Organic Search
+user_987,27-12-2024,79.10,web,Email Campaign
+user_988,26-12-2024,86.37,app,Email Campaign
+user_988,06-08-2024,91.92,app,Organic Search
+user_988,23-07-2024,58.87,web,Email Campaign
+user_988,31-08-2024,35.22,web,Email Campaign
+user_990,10-12-2024,75.62,app,Email Campaign
+user_990,17-12-2024,71.92,app,Facebook Ads
+user_991,06-09-2024,92.84,app,Organic Search
+user_992,27-07-2024,6.87,web,Email Campaign
+user_992,28-04-2024,85.40,web,Referral
+user_992,30-06-2024,9.32,web,Organic Search
+user_992,21-07-2024,60.97,app,Email Campaign
+user_992,22-07-2024,56.92,web,Google Ads
+user_993,19-12-2024,64.15,web,Referral
+user_995,12-12-2024,6.81,web,Organic Search
+user_995,20-12-2024,96.20,web,Facebook Ads
+user_996,29-09-2024,89.77,web,Google Ads
+user_996,15-12-2024,15.12,web,Facebook Ads
+user_996,11-08-2024,80.20,web,Google Ads
+user_996,04-08-2024,89.16,app,Google Ads
+user_998,05-10-2024,21.58,web,Facebook Ads
+user_998,01-05-2024,86.22,app,Organic Search
+user_998,27-08-2024,10.74,app,Organic Search
+user_998,27-10-2024,29.00,app,Google Ads
+user_998,30-04-2024,25.59,web,Organic Search
+user_998,27-04-2024,85.85,web,Facebook Ads
+user_999,16-11-2024,38.98,app,Organic Search
+user_999,27-11-2024,42.62,app,Google Ads
+user_999,28-12-2024,20.19,web,Facebook Ads
